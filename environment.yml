@@ -2,6 +2,7 @@ name: research_geo_env
 channels:
   - conda-forge
   - defaults
+
 dependencies:
   - python=3.10
   - numpy=1.25.2
@@ -11,11 +12,21 @@ dependencies:
   - fiona
   - shapely
   - gdal
-  - jupyter
   - matplotlib
+  - seaborn
+  - jupyter
+  - notebook
   - ipykernel
   - ipywidgets
-  - notebook
+  - contextily
+  - pyproj
+  - rich
+  - scikit-learn
+  - folium
   - pip
   - pip:
+      - streamlit
+      - streamlit-folium
+      - streamlit-geopandas
+      - strait
       - git-lfs
