@@ -9,6 +9,7 @@ dependencies:
   - pandas
   - geopandas
   - pyogrio
+  - gdown
   - fiona
   - shapely
   - gdal
