@@ -28,6 +28,5 @@ dependencies:
   - pip:
       - streamlit
       - streamlit-folium
-      - streamlit-geopandas
       - strait
       - git-lfs
