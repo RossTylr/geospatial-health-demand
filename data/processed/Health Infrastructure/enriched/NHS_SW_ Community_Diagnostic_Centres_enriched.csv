@@ -1,0 +1,25 @@
+Code,Name,Address 1,Address 2,Address 3,Address 4,Address 5,Postcode,Type,Parent Organisation Code,Parent Organisation Name,Unnamed: 11,Unnamed: 12,Unnamed: 13,POSTCODE_CLEAN,pcd_clean,lsoa21cd,msoa21cd,ladcd
+B4B4S,Bsw Banes Locality CDC,Foxcote Avenue,Bath Business Park,Peasedown St. John,Bath,,BA2 8SQ,CDC,QOX,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",,,,BA28SQ,BA28SQ,E01014444,E02003006,E06000022
+K1W4U,Salisbury CDC,Avon Approach,,,Salisbury,,SP1 3SL,CDC,QOX,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",,,,SP13SL,SP13SL,E01032014,E02006671,E06000054
+O0D8X,West Swindon CDC,West Swindon District Centre,,,Swindon,,SN5 7DL,CDC,QOX,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",,,,SN57DL,SN57DL,E01015569,E02003233,E06000030
+O1F4J,Weston CDC,68 Lonsdale Avenue,,,Weston-Super-Mare,,BS23 3SJ,CDC,QUY,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",,,,BS233SJ,BS233SJ,E01014833,E02003085,E06000024
+Q9T4V,North Bristol CDC,Highwood Lane,Patchway,,Bristol,,BS34 5TL,CDC,QUY,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",,,,BS345TL,BS345TL,E01014861,E02003094,E06000025
+D5M4B,Bodmin CDC,Bodmin Hospital,Boundary Road,,Bodmin,,PL31 2QT,CDC,QT6,NHS Cornwall and Isles of Scilly Integrated Care Board,,,,PL312QT,PL312QT,E01018929,E02003942,E06000052
+D8G6B,West Cornwall CDC,St. Clare Street,,,Penzance,,TR18 2PF,CDC,QT6,NHS Cornwall and Isles of Scilly Integrated Care Board,,,,TR182PF,TR182PF,E01018995,E02003949,E06000052
+J3K6R,Camborne and Redruth CDC,5 Foundry Row,,,Redruth,,TR15 1AN,CDC,QT6,NHS Cornwall and Isles of Scilly Integrated Care Board,,,,TR151AN,TR151AN,E01018911,E02003919,E06000052
+D0W4Z,Devon and Torbay CDC,2 Market Street,,,Torquay,Devon,TQ1 3AQ,CDC,QJK,NHS Devon Integrated Care Board,,,,TQ13AQ,TQ13AQ,E01015217,E02003161,E06000027
+D7D3Y,Devon Exeter Nightingale CDC,Osprey Road,Sowton Industrial Estate,,Exeter,Devon,EX2 7JG,CDC,QJK,NHS Devon Integrated Care Board,,,,EX27JG,EX27JG,E01033234,E02004159,E07000041
+N6I0G,Plymouth CDC,Colin Campbell Court,,,Plymouth,Devon,PL1 1TQ,CDC,QJK,NHS Devon Integrated Care Board,,,,PL11TQ,PL11TQ,E01015152,E02003148,E06000026
+E7P1H,Dorset Health Village  Poole CDC,Poole Hospital NHS Trust,Longfleet Road,,Poole,,BH15 2JB,CDC,QVV,NHS Dorset Integrated Care Board,,,,BH152JB,BH152JB,E01034281,E02003208,E06000058
+J9W8Y,"Dorset Health Village Boscombe, Aecc CDC",Parkwood Campus,Parkwood Road,,Bournemouth,,BH5 2DF,CDC,QVV,NHS Dorset Integrated Care Board,,,,BH52DF,BH52DF,E01015275,E02003187,E06000058
+V1W2D,Dorset Health Village Poole Beales CDC,64-68 Dolphin Centre,,,Poole,,BH15 1SQ,CDC,QVV,NHS Dorset Integrated Care Board,,,,BH151SQ,BH151SQ,E01032659,E02003208,E06000058
+T2F2W,Dorset Health Village South Walks CDC,South Walks House,Charles Street,,Dorchester,Dorset,DT1 1EE,CDC,QVV,NHS Dorset Integrated Care Board,,,,DT11EE,DT11EE,E01032644,E02007006,E06000059
+C4Q4G,Dorset Health Village Weymouth CDC,Weymouth Community Hospital,3 Melcombe Avenue,,Weymouth,,DT4 7TB,CDC,QVV,NHS Dorset Integrated Care Board,,,,DT47TB,DT47TB,E01020556,E02004284,E06000059
+F7F9Z,Gloucestershire Quayside CDC,Quay Street,,,Gloucester,,GL1 2TZ,CDC,QR1,NHS Gloucestershire Integrated Care Board,,,,GL12TZ,GL12TZ,E01034792,E02004639,E07000081
+C0U5C,Bridgewater CDC,Bower Lane,,,Bridgwater,,TA6 4GU,CDC,QSL,NHS Somerset Integrated Care Board,,,,TA64GU,TA64GU,E01035115,E02006070,E06000066
+I1E2U,Taunton Central CDC,1 French Weir Avenue,,,Taunton,,TA1 1NW,CDC,QSL,NHS Somerset Integrated Care Board,,,,TA11NW,TA11NW,E01029289,E02006105,E06000066
+I3G3P,West Mendip CDC,Old Wells Road,,,Glastonbury,,BA6 8JD,CDC,QSL,NHS Somerset Integrated Care Board,,,,BA68JD,BA68JD,E01032627,E02006057,E06000066
+I8O6Y,South Petherton CDC,Bernard Way,,,South Petherton,,TA13 5EF,CDC,QSL,NHS Somerset Integrated Care Board,,,,TA135EF,TA135EF,E01029218,E02006084,E06000066
+M6K9K,Yeovil CDC,10 Ivel Square,,,Yeovil,,BA20 1EY,CDC,QSL,NHS Somerset Integrated Care Board,,,,BA201EY,BA201EY,E01035125,E02006089,E06000066
+N9U8C,Somerset East CDC,Higher Kingston,,,Yeovil,,BA21 4AT,CDC,QSL,NHS Somerset Integrated Care Board,,,,BA214AT,BA214AT,E01029231,E02006088,E06000066
+R3H5P,Somerset West CDC,Rutherford Diagnostics Centre,Blackbrook Park Avenue,,Taunton,,TA1 2PX,CDC,QSL,NHS Somerset Integrated Care Board,,,,TA12PX,TA12PX,E01029282,E02006104,E06000066

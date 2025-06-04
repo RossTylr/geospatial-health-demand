@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a538c0d-91df-467e-8b73-24ae2d78c957" name="Changes" comment="" />
+    <list default="true" id="2a538c0d-91df-467e-8b73-24ae2d78c957" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/data/processed/Health Infrastructure/NHS_SW_ Community_Diagnostic_Centres.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/Health Infrastructure/NHS_SW_ GP_Practices_and_Polyclinics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/Health Infrastructure/NHS_SW_Acute_Hospitals.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/Health Infrastructure/NHS_SW_Ambulance_Stations.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/Health Infrastructure/NHS_SW_Community_Hospitals.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/Health Infrastructure/NHS_SW_Community_and_Outreach_Facilities.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/Health Infrastructure/NHS_SW_Specialist_Hospitals.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/Health Infrastructure/NHS_SW_Specialist_Hospitals.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/08_enrich_hopsital_infrastructure_with_lsoa_latlong.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/07_add_geographies_and_centroids.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/07_add_geographies_and_centroids.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,33 +50,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.download_lsoa_shapefile (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.download_lsoa_shapefile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/rosstaylor/Downloads/Research Project/Code Folder/Research Project - Geospatial Health Demand&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.download_lsoa_shapefile (1).executor": "Run",
+    "Python.download_lsoa_shapefile.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/rosstaylor/Downloads/Research Project/Code Folder/Research Project - Geospatial Health Demand/data/processed",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/processed" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/notebooks" />
+      <recent name="$PROJECT_DIR$/data/raw" />
       <recent name="$PROJECT_DIR$/data/processed" />
       <recent name="$PROJECT_DIR$/notebooks/Legacy" />
       <recent name="$PROJECT_DIR$/data/raw/lsoa_shapefile" />
-      <recent name="$PROJECT_DIR$/data/raw" />
     </key>
   </component>
   <component name="RunManager" selected="Python.download_lsoa_shapefile">

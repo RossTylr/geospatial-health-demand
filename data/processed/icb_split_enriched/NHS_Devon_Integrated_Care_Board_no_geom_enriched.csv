@@ -1,0 +1,728 @@
+LSOA21CD,LSOA21NM,IMD_Rank,LAD22NM,Urban_rural_flag,ICB23NM,lsoa21cd,lsoa21nm,msoa21cd,msoa21nm,ladcd,ladnm
+E01020173,South Hams 012B,27399.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020173,South Hams 012B,E02004200,South Hams 012,E07000044,South Hams
+E01020172,South Hams 012A,19560.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020172,South Hams 012A,E02004200,South Hams 012,E07000044,South Hams
+E01020189,South Hams 010C,10891.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020189,South Hams 010C,E02004198,South Hams 010,E07000044,South Hams
+E01020168,South Hams 010A,20966.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020168,South Hams 010A,E02004198,South Hams 010,E07000044,South Hams
+E01020179,South Hams 012C,18949.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020179,South Hams 012C,E02004200,South Hams 012,E07000044,South Hams
+E01020169,South Hams 010B,23467.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020169,South Hams 010B,E02004198,South Hams 010,E07000044,South Hams
+E01020147,South Hams 008A,16104.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020147,South Hams 008A,E02004196,South Hams 008,E07000044,South Hams
+E01020171,South Hams 009A,28219.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020171,South Hams 009A,E02004197,South Hams 009,E07000044,South Hams
+E01020186,South Hams 009C,28017.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020186,South Hams 009C,E02004197,South Hams 009,E07000044,South Hams
+E01020185,South Hams 009B,29260.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020185,South Hams 009B,E02004197,South Hams 009,E07000044,South Hams
+E01020178,South Hams 011C,19888.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020178,South Hams 011C,E02004199,South Hams 011,E07000044,South Hams
+E01020174,South Hams 011A,14791.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020174,South Hams 011A,E02004199,South Hams 011,E07000044,South Hams
+E01020175,South Hams 011B,17205.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020175,South Hams 011B,E02004199,South Hams 011,E07000044,South Hams
+E01020151,South Hams 007A,29224.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020151,South Hams 007A,E02004195,South Hams 007,E07000044,South Hams
+E01020142,South Hams 006A,16934.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020142,South Hams 006A,E02004194,South Hams 006,E07000044,South Hams
+E01020155,South Hams 007D,9296.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020155,South Hams 007D,E02004195,South Hams 007,E07000044,South Hams
+E01020152,South Hams 007B,19104.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020152,South Hams 007B,E02004195,South Hams 007,E07000044,South Hams
+E01020154,South Hams 007C,21139.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020154,South Hams 007C,E02004195,South Hams 007,E07000044,South Hams
+E01020153,South Hams 004A,17202.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020153,South Hams 004A,E02004192,South Hams 004,E07000044,South Hams
+E01020188,South Hams 004D,17489.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020188,South Hams 004D,E02004192,South Hams 004,E07000044,South Hams
+E01015130,Plymouth 032C,29234.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015130,Plymouth 032C,E02003153,Plymouth 032,E06000026,Plymouth
+E01020159,South Hams 008C,17339.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020159,South Hams 008C,E02004196,South Hams 008,E07000044,South Hams
+E01015129,Plymouth 032B,13023.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015129,Plymouth 032B,E02003153,Plymouth 032,E06000026,Plymouth
+E01020158,South Hams 008B,26777.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020158,South Hams 008B,E02004196,South Hams 008,E07000044,South Hams
+E01015139,Plymouth 031E,16438.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015139,Plymouth 031E,E02003152,Plymouth 031,E06000026,Plymouth
+E01020190,South Hams 008D,26072.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020190,South Hams 008D,E02004196,South Hams 008,E07000044,South Hams
+E01015128,Plymouth 032A,23612.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015128,Plymouth 032A,E02003153,Plymouth 032,E06000026,Plymouth
+E01020187,South Hams 009D,19157.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020187,South Hams 009D,E02004197,South Hams 009,E07000044,South Hams
+E01015141,Plymouth 031F,25625.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015141,Plymouth 031F,E02003152,Plymouth 031,E06000026,Plymouth
+E01015140,Plymouth 032E,26455.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015140,Plymouth 032E,E02003153,Plymouth 032,E06000026,Plymouth
+E01034161,Plymouth 034D,,Plymouth,Urban,NHS Devon Integrated Care Board,E01034161,Plymouth 034D,E02006990,Plymouth 034,E06000026,Plymouth
+E01015138,Plymouth 031D,19736.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015138,Plymouth 031D,E02003152,Plymouth 031,E06000026,Plymouth
+E01015126,Plymouth 030A,28526.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015126,Plymouth 030A,E02003151,Plymouth 030,E06000026,Plymouth
+E01015127,Plymouth 030B,17923.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015127,Plymouth 030B,E02003151,Plymouth 030,E06000026,Plymouth
+E01015136,Plymouth 031B,22279.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015136,Plymouth 031B,E02003152,Plymouth 031,E06000026,Plymouth
+E01015137,Plymouth 031C,22871.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015137,Plymouth 031C,E02003152,Plymouth 031,E06000026,Plymouth
+E01015134,Plymouth 032D,24541.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015134,Plymouth 032D,E02003153,Plymouth 032,E06000026,Plymouth
+E01015133,Plymouth 030E,27920.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015133,Plymouth 030E,E02003151,Plymouth 030,E06000026,Plymouth
+E01034158,Plymouth 031H,,Plymouth,Urban,NHS Devon Integrated Care Board,E01034158,Plymouth 031H,E02003152,Plymouth 031,E06000026,Plymouth
+E01015132,Plymouth 030D,17075.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015132,Plymouth 030D,E02003151,Plymouth 030,E06000026,Plymouth
+E01015182,Plymouth 028E,4502.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015182,Plymouth 028E,E02003149,Plymouth 028,E06000026,Plymouth
+E01034162,Plymouth 034E,,Plymouth,Urban,NHS Devon Integrated Care Board,E01034162,Plymouth 034E,E02006990,Plymouth 034,E06000026,Plymouth
+E01034160,Plymouth 034C,,Plymouth,Urban,NHS Devon Integrated Care Board,E01034160,Plymouth 034C,E02006990,Plymouth 034,E06000026,Plymouth
+E01034159,Plymouth 034B,,Plymouth,Urban,NHS Devon Integrated Care Board,E01034159,Plymouth 034B,E02006990,Plymouth 034,E06000026,Plymouth
+E01015131,Plymouth 030C,31190.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015131,Plymouth 030C,E02003151,Plymouth 030,E06000026,Plymouth
+E01015156,Plymouth 027E,5247.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015156,Plymouth 027E,E02003148,Plymouth 027,E06000026,Plymouth
+E01015181,Plymouth 028D,4620.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015181,Plymouth 028D,E02003149,Plymouth 028,E06000026,Plymouth
+E01032658,Plymouth 027G,3793.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01032658,Plymouth 027G,E02003148,Plymouth 027,E06000026,Plymouth
+E01032657,Plymouth 027F,14499.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01032657,Plymouth 027F,E02003148,Plymouth 027,E06000026,Plymouth
+E01015180,Plymouth 028C,2315.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015180,Plymouth 028C,E02003149,Plymouth 028,E06000026,Plymouth
+E01015152,Plymouth 027C,1229.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015152,Plymouth 027C,E02003148,Plymouth 027,E06000026,Plymouth
+E01015179,Plymouth 028B,12813.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015179,Plymouth 028B,E02003149,Plymouth 028,E06000026,Plymouth
+E01015054,Plymouth 027B,12840.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015054,Plymouth 027B,E02003148,Plymouth 027,E06000026,Plymouth
+E01015177,Plymouth 025D,12027.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015177,Plymouth 025D,E02003146,Plymouth 025,E06000026,Plymouth
+E01015047,Plymouth 026D,2529.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015047,Plymouth 026D,E02003147,Plymouth 026,E06000026,Plymouth
+E01015155,Plymouth 034A,163.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015155,Plymouth 034A,E02006990,Plymouth 034,E06000026,Plymouth
+E01015048,Plymouth 026E,2847.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015048,Plymouth 026E,E02003147,Plymouth 026,E06000026,Plymouth
+E01015046,Plymouth 026C,448.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015046,Plymouth 026C,E02003147,Plymouth 026,E06000026,Plymouth
+E01015153,Plymouth 033C,321.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015153,Plymouth 033C,E02006989,Plymouth 033,E06000026,Plymouth
+E01015053,Plymouth 027A,5121.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015053,Plymouth 027A,E02003148,Plymouth 027,E06000026,Plymouth
+E01015176,Plymouth 021F,4932.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015176,Plymouth 021F,E02003142,Plymouth 021,E06000026,Plymouth
+E01034157,Plymouth 031G,,Plymouth,Urban,NHS Devon Integrated Care Board,E01034157,Plymouth 031G,E02003152,Plymouth 031,E06000026,Plymouth
+E01015178,Plymouth 025E,10951.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015178,Plymouth 025E,E02003146,Plymouth 025,E06000026,Plymouth
+E01015052,Plymouth 028A,7643.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015052,Plymouth 028A,E02003149,Plymouth 028,E06000026,Plymouth
+E01015117,Plymouth 022E,21032.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015117,Plymouth 022E,E02003143,Plymouth 022,E06000026,Plymouth
+E01015175,Plymouth 025C,10768.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015175,Plymouth 025C,E02003146,Plymouth 025,E06000026,Plymouth
+E01015050,Plymouth 023D,11586.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015050,Plymouth 023D,E02003144,Plymouth 023,E06000026,Plymouth
+E01015051,Plymouth 023E,14870.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015051,Plymouth 023E,E02003144,Plymouth 023,E06000026,Plymouth
+E01015116,Plymouth 022D,22941.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015116,Plymouth 022D,E02003143,Plymouth 022,E06000026,Plymouth
+E01015172,Plymouth 033B,8192.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015172,Plymouth 033B,E02006989,Plymouth 033,E06000026,Plymouth
+E01015151,Plymouth 033A,1384.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015151,Plymouth 033A,E02006989,Plymouth 033,E06000026,Plymouth
+E01015173,Plymouth 024C,10966.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015173,Plymouth 024C,E02003145,Plymouth 024,E06000026,Plymouth
+E01015045,Plymouth 026B,2657.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015045,Plymouth 026B,E02003147,Plymouth 026,E06000026,Plymouth
+E01015169,Plymouth 024A,10426.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015169,Plymouth 024A,E02003145,Plymouth 024,E06000026,Plymouth
+E01015245,Torbay 018B,8262.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015245,Torbay 018B,E02003171,Torbay 018,E06000027,Torbay
+E01015244,Torbay 018A,17185.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015244,Torbay 018A,E02003171,Torbay 018,E06000027,Torbay
+E01015247,Torbay 018D,11651.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015247,Torbay 018D,E02003171,Torbay 018,E06000027,Torbay
+E01015248,Torbay 018E,5974.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015248,Torbay 018E,E02003171,Torbay 018,E06000027,Torbay
+E01015201,Torbay 016E,18678.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015201,Torbay 016E,E02003169,Torbay 016,E06000027,Torbay
+E01015246,Torbay 018C,19171.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015246,Torbay 018C,E02003171,Torbay 018,E06000027,Torbay
+E01015184,Torbay 017B,19257.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015184,Torbay 017B,E02003170,Torbay 017,E06000027,Torbay
+E01015185,Torbay 017C,11161.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015185,Torbay 017C,E02003170,Torbay 017,E06000027,Torbay
+E01015186,Torbay 017D,4667.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015186,Torbay 017D,E02003170,Torbay 017,E06000027,Torbay
+E01015183,Torbay 017A,11034.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015183,Torbay 017A,E02003170,Torbay 017,E06000027,Torbay
+E01015062,Plymouth 025B,11922.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015062,Plymouth 025B,E02003146,Plymouth 025,E06000026,Plymouth
+E01015061,Plymouth 025A,7865.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015061,Plymouth 025A,E02003146,Plymouth 025,E06000026,Plymouth
+E01015049,Plymouth 023C,15992.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015049,Plymouth 023C,E02003144,Plymouth 023,E06000026,Plymouth
+E01015112,Plymouth 019A,21317.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015112,Plymouth 019A,E02003140,Plymouth 019,E06000026,Plymouth
+E01015114,Plymouth 019C,25119.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015114,Plymouth 019C,E02003140,Plymouth 019,E06000026,Plymouth
+E01015115,Plymouth 022C,7444.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015115,Plymouth 022C,E02003143,Plymouth 022,E06000026,Plymouth
+E01015032,Plymouth 023B,7337.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015032,Plymouth 023B,E02003144,Plymouth 023,E06000026,Plymouth
+E01015060,Plymouth 021E,6891.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015060,Plymouth 021E,E02003142,Plymouth 021,E06000026,Plymouth
+E01015109,Plymouth 022B,21659.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015109,Plymouth 022B,E02003143,Plymouth 022,E06000026,Plymouth
+E01015059,Plymouth 021D,10581.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015059,Plymouth 021D,E02003142,Plymouth 021,E06000026,Plymouth
+E01015171,Plymouth 020E,5576.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015171,Plymouth 020E,E02003141,Plymouth 020,E06000026,Plymouth
+E01015170,Plymouth 024B,4746.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015170,Plymouth 024B,E02003145,Plymouth 024,E06000026,Plymouth
+E01015043,Plymouth 026A,1196.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015043,Plymouth 026A,E02003147,Plymouth 026,E06000026,Plymouth
+E01015044,Plymouth 020B,3211.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015044,Plymouth 020B,E02003141,Plymouth 020,E06000026,Plymouth
+E01015174,Plymouth 024D,16869.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015174,Plymouth 024D,E02003145,Plymouth 024,E06000026,Plymouth
+E01015167,Plymouth 020C,8723.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015167,Plymouth 020C,E02003141,Plymouth 020,E06000026,Plymouth
+E01015042,Plymouth 020A,10854.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015042,Plymouth 020A,E02003141,Plymouth 020,E06000026,Plymouth
+E01015099,Plymouth 017B,18454.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015099,Plymouth 017B,E02003138,Plymouth 017,E06000026,Plymouth
+E01020163,South Hams 005C,29749.0,South Hams,Urban,NHS Devon Integrated Care Board,E01020163,South Hams 005C,E02004193,South Hams 005,E07000044,South Hams
+E01015031,Plymouth 023A,12003.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015031,Plymouth 023A,E02003144,Plymouth 023,E06000026,Plymouth
+E01015113,Plymouth 019B,26574.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015113,Plymouth 019B,E02003140,Plymouth 019,E06000026,Plymouth
+E01015107,Plymouth 018A,19848.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015107,Plymouth 018A,E02003139,Plymouth 018,E06000026,Plymouth
+E01015108,Plymouth 022A,27136.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015108,Plymouth 022A,E02003143,Plymouth 022,E06000026,Plymouth
+E01020166,South Hams 005F,30101.0,South Hams,Urban,NHS Devon Integrated Care Board,E01020166,South Hams 005F,E02004193,South Hams 005,E07000044,South Hams
+E01020161,South Hams 005A,18434.0,South Hams,Urban,NHS Devon Integrated Care Board,E01020161,South Hams 005A,E02004193,South Hams 005,E07000044,South Hams
+E01015057,Plymouth 021C,2491.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015057,Plymouth 021C,E02003142,Plymouth 021,E06000026,Plymouth
+E01015056,Plymouth 021B,9261.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015056,Plymouth 021B,E02003142,Plymouth 021,E06000026,Plymouth
+E01015100,Plymouth 017C,19897.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015100,Plymouth 017C,E02003138,Plymouth 017,E06000026,Plymouth
+E01015111,Plymouth 018C,24087.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015111,Plymouth 018C,E02003139,Plymouth 018,E06000026,Plymouth
+E01020162,South Hams 005B,28871.0,South Hams,Urban,NHS Devon Integrated Care Board,E01020162,South Hams 005B,E02004193,South Hams 005,E07000044,South Hams
+E01015038,Plymouth 016D,24499.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015038,Plymouth 016D,E02003137,Plymouth 016,E06000026,Plymouth
+E01020164,South Hams 005D,21980.0,South Hams,Urban,NHS Devon Integrated Care Board,E01020164,South Hams 005D,E02004193,South Hams 005,E07000044,South Hams
+E01020165,South Hams 005E,31264.0,South Hams,Urban,NHS Devon Integrated Care Board,E01020165,South Hams 005E,E02004193,South Hams 005,E07000044,South Hams
+E01015055,Plymouth 021A,3640.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015055,Plymouth 021A,E02003142,Plymouth 021,E06000026,Plymouth
+E01015110,Plymouth 018B,27975.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015110,Plymouth 018B,E02003139,Plymouth 018,E06000026,Plymouth
+E01015058,Plymouth 012C,3145.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015058,Plymouth 012C,E02003133,Plymouth 012,E06000026,Plymouth
+E01020167,South Hams 005G,32466.0,South Hams,Urban,NHS Devon Integrated Care Board,E01020167,South Hams 005G,E02004193,South Hams 005,E07000044,South Hams
+E01015168,Plymouth 020D,6381.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015168,Plymouth 020D,E02003141,Plymouth 020,E06000026,Plymouth
+E01015106,Plymouth 013E,19252.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015106,Plymouth 013E,E02003134,Plymouth 013,E06000026,Plymouth
+E01015041,Plymouth 014C,6928.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015041,Plymouth 014C,E02003135,Plymouth 014,E06000026,Plymouth
+E01015072,Plymouth 013A,4047.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015072,Plymouth 013A,E02003134,Plymouth 013,E06000026,Plymouth
+E01015040,Plymouth 014B,2142.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015040,Plymouth 014B,E02003135,Plymouth 014,E06000026,Plymouth
+E01015104,Plymouth 011E,24458.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015104,Plymouth 011E,E02003132,Plymouth 011,E06000026,Plymouth
+E01015039,Plymouth 014A,15850.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015039,Plymouth 014A,E02003135,Plymouth 014,E06000026,Plymouth
+E01015098,Plymouth 017A,24268.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015098,Plymouth 017A,E02003138,Plymouth 017,E06000026,Plymouth
+E01015037,Plymouth 012B,12391.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015037,Plymouth 012B,E02003133,Plymouth 012,E06000026,Plymouth
+E01015034,Plymouth 016B,25044.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015034,Plymouth 016B,E02003137,Plymouth 016,E06000026,Plymouth
+E01015123,Plymouth 015C,17366.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015123,Plymouth 015C,E02003136,Plymouth 015,E06000026,Plymouth
+E01015124,Plymouth 015D,26098.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015124,Plymouth 015D,E02003136,Plymouth 015,E06000026,Plymouth
+E01015105,Plymouth 017E,26831.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015105,Plymouth 017E,E02003138,Plymouth 017,E06000026,Plymouth
+E01015063,Plymouth 010A,7259.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015063,Plymouth 010A,E02003131,Plymouth 010,E06000026,Plymouth
+E01015036,Plymouth 016C,25554.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015036,Plymouth 016C,E02003137,Plymouth 016,E06000026,Plymouth
+E01015119,Plymouth 018D,25498.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015119,Plymouth 018D,E02003139,Plymouth 018,E06000026,Plymouth
+E01015122,Plymouth 019E,23593.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015122,Plymouth 019E,E02003140,Plymouth 019,E06000026,Plymouth
+E01015187,Torbay 017E,20676.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015187,Torbay 017E,E02003170,Torbay 017,E06000027,Torbay
+E01015189,Torbay 017G,9051.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015189,Torbay 017G,E02003170,Torbay 017,E06000027,Torbay
+E01015188,Torbay 017F,15849.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015188,Torbay 017F,E02003170,Torbay 017,E06000027,Torbay
+E01015199,Torbay 016C,26577.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015199,Torbay 016C,E02003169,Torbay 016,E06000027,Torbay
+E01020143,South Hams 006B,17780.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020143,South Hams 006B,E02004194,South Hams 006,E07000044,South Hams
+E01015197,Torbay 016A,27353.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015197,Torbay 016A,E02003169,Torbay 016,E06000027,Torbay
+E01015200,Torbay 016D,17927.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015200,Torbay 016D,E02003169,Torbay 016,E06000027,Torbay
+E01015198,Torbay 016B,22217.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015198,Torbay 016B,E02003169,Torbay 016,E06000027,Torbay
+E01015223,Torbay 015E,22894.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015223,Torbay 015E,E02003168,Torbay 015,E06000027,Torbay
+E01015222,Torbay 015D,21224.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015222,Torbay 015D,E02003168,Torbay 015,E06000027,Torbay
+E01015035,Plymouth 012A,22499.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015035,Plymouth 012A,E02003133,Plymouth 012,E06000026,Plymouth
+E01015102,Plymouth 011D,19019.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015102,Plymouth 011D,E02003132,Plymouth 011,E06000026,Plymouth
+E01015103,Plymouth 017D,19730.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015103,Plymouth 017D,E02003138,Plymouth 017,E06000026,Plymouth
+E01015118,Plymouth 019D,25407.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015118,Plymouth 019D,E02003140,Plymouth 019,E06000026,Plymouth
+E01015121,Plymouth 015B,28116.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015121,Plymouth 015B,E02003136,Plymouth 015,E06000026,Plymouth
+E01015101,Plymouth 016E,28553.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015101,Plymouth 016E,E02003137,Plymouth 016,E06000026,Plymouth
+E01015033,Plymouth 016A,27321.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015033,Plymouth 016A,E02003137,Plymouth 016,E06000026,Plymouth
+E01015069,Plymouth 010C,9316.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015069,Plymouth 010C,E02003131,Plymouth 010,E06000026,Plymouth
+E01015125,Plymouth 015E,23360.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015125,Plymouth 015E,E02003136,Plymouth 015,E06000026,Plymouth
+E01015095,Plymouth 010D,9503.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015095,Plymouth 010D,E02003131,Plymouth 010,E06000026,Plymouth
+E01015078,Plymouth 013C,1070.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015078,Plymouth 013C,E02003134,Plymouth 013,E06000026,Plymouth
+E01015080,Plymouth 013D,1590.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015080,Plymouth 013D,E02003134,Plymouth 013,E06000026,Plymouth
+E01015079,Plymouth 011C,15722.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015079,Plymouth 011C,E02003132,Plymouth 011,E06000026,Plymouth
+E01015145,Plymouth 014E,1049.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015145,Plymouth 014E,E02003135,Plymouth 014,E06000026,Plymouth
+E01015075,Plymouth 014D,4251.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015075,Plymouth 014D,E02003135,Plymouth 014,E06000026,Plymouth
+E01015076,Plymouth 009A,13822.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015076,Plymouth 009A,E02003130,Plymouth 009,E06000026,Plymouth
+E01015146,Plymouth 009E,3208.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015146,Plymouth 009E,E02003130,Plymouth 009,E06000026,Plymouth
+E01015074,Plymouth 011A,4167.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015074,Plymouth 011A,E02003132,Plymouth 011,E06000026,Plymouth
+E01015073,Plymouth 013B,5323.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015073,Plymouth 013B,E02003134,Plymouth 013,E06000026,Plymouth
+E01015143,Plymouth 009C,7918.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015143,Plymouth 009C,E02003130,Plymouth 009,E06000026,Plymouth
+E01015144,Plymouth 009D,2943.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015144,Plymouth 009D,E02003130,Plymouth 009,E06000026,Plymouth
+E01015142,Plymouth 009B,10054.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015142,Plymouth 009B,E02003130,Plymouth 009,E06000026,Plymouth
+E01015066,Plymouth 012D,19417.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015066,Plymouth 012D,E02003133,Plymouth 012,E06000026,Plymouth
+E01015077,Plymouth 011B,12551.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015077,Plymouth 011B,E02003132,Plymouth 011,E06000026,Plymouth
+E01015120,Plymouth 015A,23868.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015120,Plymouth 015A,E02003136,Plymouth 015,E06000026,Plymouth
+E01015067,Plymouth 012E,24000.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015067,Plymouth 012E,E02003133,Plymouth 012,E06000026,Plymouth
+E01015068,Plymouth 010B,22105.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015068,Plymouth 010B,E02003131,Plymouth 010,E06000026,Plymouth
+E01015096,Plymouth 010E,7282.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015096,Plymouth 010E,E02003131,Plymouth 010,E06000026,Plymouth
+E01020149,South Hams 001D,12742.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020149,South Hams 001D,E02004189,South Hams 001,E07000044,South Hams
+E01015065,Plymouth 008C,17468.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015065,Plymouth 008C,E02003129,Plymouth 008,E06000026,Plymouth
+E01015064,Plymouth 008B,25995.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015064,Plymouth 008B,E02003129,Plymouth 008,E06000026,Plymouth
+E01015071,Plymouth 008D,11846.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015071,Plymouth 008D,E02003129,Plymouth 008,E06000026,Plymouth
+E01015149,Plymouth 009F,1379.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015149,Plymouth 009F,E02003130,Plymouth 009,E06000026,Plymouth
+E01015150,Plymouth 009G,8265.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015150,Plymouth 009G,E02003130,Plymouth 009,E06000026,Plymouth
+E01015081,Plymouth 007C,5407.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015081,Plymouth 007C,E02003128,Plymouth 007,E06000026,Plymouth
+E01015148,Plymouth 006E,9308.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015148,Plymouth 006E,E02003127,Plymouth 006,E06000026,Plymouth
+E01015147,Plymouth 006D,11978.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015147,Plymouth 006D,E02003127,Plymouth 006,E06000026,Plymouth
+E01015087,Plymouth 006B,2656.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015087,Plymouth 006B,E02003127,Plymouth 006,E06000026,Plymouth
+E01015089,Plymouth 007E,9252.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015089,Plymouth 007E,E02003128,Plymouth 007,E06000026,Plymouth
+E01015088,Plymouth 006C,1955.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015088,Plymouth 006C,E02003127,Plymouth 006,E06000026,Plymouth
+E01015070,Plymouth 007B,14155.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015070,Plymouth 007B,E02003128,Plymouth 007,E06000026,Plymouth
+E01015094,Plymouth 005E,8646.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015094,Plymouth 005E,E02003126,Plymouth 005,E06000026,Plymouth
+E01015091,Plymouth 005B,16370.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015091,Plymouth 005B,E02003126,Plymouth 005,E06000026,Plymouth
+E01015086,Plymouth 007D,2712.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015086,Plymouth 007D,E02003128,Plymouth 007,E06000026,Plymouth
+E01015029,Plymouth 008A,13224.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015029,Plymouth 008A,E02003129,Plymouth 008,E06000026,Plymouth
+E01015093,Plymouth 005D,8688.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015093,Plymouth 005D,E02003126,Plymouth 005,E06000026,Plymouth
+E01020176,South Hams 002D,22004.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020176,South Hams 002D,E02004190,South Hams 002,E07000044,South Hams
+E01015092,Plymouth 005C,13508.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015092,Plymouth 005C,E02003126,Plymouth 005,E06000026,Plymouth
+E01015030,Plymouth 007A,2190.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015030,Plymouth 007A,E02003128,Plymouth 007,E06000026,Plymouth
+E01015090,Plymouth 005A,24039.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015090,Plymouth 005A,E02003126,Plymouth 005,E06000026,Plymouth
+E01034172,Torbay 013I,,Torbay,Urban,NHS Devon Integrated Care Board,E01034172,Torbay 013I,E02003166,Torbay 013,E06000027,Torbay
+E01020184,South Hams 003E,14439.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020184,South Hams 003E,E02004191,South Hams 003,E07000044,South Hams
+E01015221,Torbay 015C,11816.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015221,Torbay 015C,E02003168,Torbay 015,E06000027,Torbay
+E01015220,Torbay 015B,17447.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015220,Torbay 015B,E02003168,Torbay 015,E06000027,Torbay
+E01015271,Torbay 010E,25509.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015271,Torbay 010E,E02003163,Torbay 010,E06000027,Torbay
+E01015219,Torbay 015A,8280.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015219,Torbay 015A,E02003168,Torbay 015,E06000027,Torbay
+E01034171,Torbay 013H,,Torbay,Urban,NHS Devon Integrated Care Board,E01034171,Torbay 013H,E02003166,Torbay 013,E06000027,Torbay
+E01015234,Torbay 014E,6356.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015234,Torbay 014E,E02003167,Torbay 014,E06000027,Torbay
+E01020181,South Hams 003B,17792.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020181,South Hams 003B,E02004191,South Hams 003,E07000044,South Hams
+E01015235,Torbay 014F,9148.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015235,Torbay 014F,E02003167,Torbay 014,E06000027,Torbay
+E01020177,South Hams 002E,14792.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020177,South Hams 002E,E02004190,South Hams 002,E07000044,South Hams
+E01015023,Plymouth 003A,3025.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015023,Plymouth 003A,E02003124,Plymouth 003,E06000026,Plymouth
+E01015027,Plymouth 002A,18462.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015027,Plymouth 002A,E02003123,Plymouth 002,E06000026,Plymouth
+E01020160,South Hams 002C,19328.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020160,South Hams 002C,E02004190,South Hams 002,E07000044,South Hams
+E01015025,Plymouth 001A,28304.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015025,Plymouth 001A,E02003122,Plymouth 001,E06000026,Plymouth
+E01015162,Plymouth 002D,6557.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015162,Plymouth 002D,E02003123,Plymouth 002,E06000026,Plymouth
+E01015097,Plymouth 001B,23700.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015097,Plymouth 001B,E02003122,Plymouth 001,E06000026,Plymouth
+E01015163,Plymouth 003D,11823.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015163,Plymouth 003D,E02003124,Plymouth 003,E06000026,Plymouth
+E01015161,Plymouth 002C,7989.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015161,Plymouth 002C,E02003123,Plymouth 002,E06000026,Plymouth
+E01015159,Plymouth 002B,7839.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015159,Plymouth 002B,E02003123,Plymouth 002,E06000026,Plymouth
+E01015085,Plymouth 006A,7883.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015085,Plymouth 006A,E02003127,Plymouth 006,E06000026,Plymouth
+E01015083,Plymouth 004C,2077.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015083,Plymouth 004C,E02003125,Plymouth 004,E06000026,Plymouth
+E01015084,Plymouth 004D,8751.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015084,Plymouth 004D,E02003125,Plymouth 004,E06000026,Plymouth
+E01015028,Plymouth 003C,2063.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015028,Plymouth 003C,E02003124,Plymouth 003,E06000026,Plymouth
+E01015026,Plymouth 003B,3064.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015026,Plymouth 003B,E02003124,Plymouth 003,E06000026,Plymouth
+E01015082,Plymouth 004B,4257.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015082,Plymouth 004B,E02003125,Plymouth 004,E06000026,Plymouth
+E01015233,Torbay 014D,2532.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015233,Torbay 014D,E02003167,Torbay 014,E06000027,Torbay
+E01020183,South Hams 003D,15080.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020183,South Hams 003D,E02004191,South Hams 003,E07000044,South Hams
+E01020182,South Hams 003C,15986.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020182,South Hams 003C,E02004191,South Hams 003,E07000044,South Hams
+E01020156,South Hams 004B,23237.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020156,South Hams 004B,E02004192,South Hams 004,E07000044,South Hams
+E01015194,Torbay 013E,6414.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015194,Torbay 013E,E02003166,Torbay 013,E06000027,Torbay
+E01015206,Torbay 012E,7695.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015206,Torbay 012E,E02003165,Torbay 012,E06000027,Torbay
+E01020180,South Hams 003A,12624.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020180,South Hams 003A,E02004191,South Hams 003,E07000044,South Hams
+E01015205,Torbay 012D,14765.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015205,Torbay 012D,E02003165,Torbay 012,E06000027,Torbay
+E01015232,Torbay 014C,2210.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015232,Torbay 014C,E02003167,Torbay 014,E06000027,Torbay
+E01015190,Torbay 013A,6640.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015190,Torbay 013A,E02003166,Torbay 013,E06000027,Torbay
+E01015024,Plymouth 004A,12627.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015024,Plymouth 004A,E02003125,Plymouth 004,E06000026,Plymouth
+E01015165,Plymouth 003E,22338.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015165,Plymouth 003E,E02003124,Plymouth 003,E06000026,Plymouth
+E01015231,Torbay 014B,198.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015231,Torbay 014B,E02003167,Torbay 014,E06000027,Torbay
+E01015192,Torbay 013C,6574.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015192,Torbay 013C,E02003166,Torbay 013,E06000027,Torbay
+E01015204,Torbay 012C,8386.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015204,Torbay 012C,E02003165,Torbay 012,E06000027,Torbay
+E01015193,Torbay 013D,8794.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015193,Torbay 013D,E02003166,Torbay 013,E06000027,Torbay
+E01015202,Torbay 012A,16987.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015202,Torbay 012A,E02003165,Torbay 012,E06000027,Torbay
+E01015229,Torbay 014A,8910.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015229,Torbay 014A,E02003167,Torbay 014,E06000027,Torbay
+E01015196,Torbay 013G,1075.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015196,Torbay 013G,E02003166,Torbay 013,E06000027,Torbay
+E01015191,Torbay 013B,17574.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015191,Torbay 013B,E02003166,Torbay 013,E06000027,Torbay
+E01015203,Torbay 012B,21635.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015203,Torbay 012B,E02003165,Torbay 012,E06000027,Torbay
+E01020150,South Hams 006C,18269.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020150,South Hams 006C,E02004194,South Hams 006,E07000044,South Hams
+E01015160,Plymouth 001C,30460.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015160,Plymouth 001C,E02003122,Plymouth 001,E06000026,Plymouth
+E01020144,South Hams 001A,32026.0,South Hams,Urban,NHS Devon Integrated Care Board,E01020144,South Hams 001A,E02004189,South Hams 001,E07000044,South Hams
+E01020146,South Hams 001C,29187.0,South Hams,Urban,NHS Devon Integrated Care Board,E01020146,South Hams 001C,E02004189,South Hams 001,E07000044,South Hams
+E01015166,Plymouth 002E,6711.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015166,Plymouth 002E,E02003123,Plymouth 002,E06000026,Plymouth
+E01015164,Plymouth 001D,13032.0,Plymouth,Urban,NHS Devon Integrated Care Board,E01015164,Plymouth 001D,E02003122,Plymouth 001,E06000026,Plymouth
+E01020148,South Hams 002A,16115.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020148,South Hams 002A,E02004190,South Hams 002,E07000044,South Hams
+E01020145,South Hams 001B,21050.0,South Hams,Urban,NHS Devon Integrated Care Board,E01020145,South Hams 001B,E02004189,South Hams 001,E07000044,South Hams
+E01020199,Teignbridge 017E,15035.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020199,Teignbridge 017E,E02004217,Teignbridge 017,E07000045,Teignbridge
+E01020316,West Devon 007D,26608.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020316,West Devon 007D,E02004235,West Devon 007,E07000047,West Devon
+E01020198,Teignbridge 017D,10227.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020198,Teignbridge 017D,E02004217,Teignbridge 017,E07000045,Teignbridge
+E01015227,Torbay 011D,25465.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015227,Torbay 011D,E02003164,Torbay 011,E06000027,Torbay
+E01015228,Torbay 011E,6773.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015228,Torbay 011E,E02003164,Torbay 011,E06000027,Torbay
+E01015225,Torbay 011B,16745.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015225,Torbay 011B,E02003164,Torbay 011,E06000027,Torbay
+E01015224,Torbay 011A,18450.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015224,Torbay 011A,E02003164,Torbay 011,E06000027,Torbay
+E01015226,Torbay 011C,20933.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015226,Torbay 011C,E02003164,Torbay 011,E06000027,Torbay
+E01015230,Torbay 011F,23105.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015230,Torbay 011F,E02003164,Torbay 011,E06000027,Torbay
+E01015208,Torbay 019F,30108.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015208,Torbay 019F,E02006840,Torbay 019,E06000027,Torbay
+E01015267,Torbay 010A,1702.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015267,Torbay 010A,E02003163,Torbay 010,E06000027,Torbay
+E01015268,Torbay 010B,9868.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015268,Torbay 010B,E02003163,Torbay 010,E06000027,Torbay
+E01015256,Torbay 008C,590.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015256,Torbay 008C,E02003161,Torbay 008,E06000027,Torbay
+E01015209,Torbay 019A,9751.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015209,Torbay 019A,E02006840,Torbay 019,E06000027,Torbay
+E01020170,South Hams 004C,24674.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020170,South Hams 004C,E02004192,South Hams 004,E07000044,South Hams
+E01015270,Torbay 010D,7146.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015270,Torbay 010D,E02003163,Torbay 010,E06000027,Torbay
+E01015255,Torbay 008B,714.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015255,Torbay 008B,E02003161,Torbay 008,E06000027,Torbay
+E01015217,Torbay 008A,736.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015217,Torbay 008A,E02003161,Torbay 008,E06000027,Torbay
+E01015207,Torbay 019E,15246.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015207,Torbay 019E,E02006840,Torbay 019,E06000027,Torbay
+E01015261,Torbay 008D,2972.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015261,Torbay 008D,E02003161,Torbay 008,E06000027,Torbay
+E01015212,Torbay 019C,7587.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015212,Torbay 019C,E02006840,Torbay 019,E06000027,Torbay
+E01015214,Torbay 006A,2457.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015214,Torbay 006A,E02003159,Torbay 006,E06000027,Torbay
+E01015213,Torbay 019D,12830.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015213,Torbay 019D,E02006840,Torbay 019,E06000027,Torbay
+E01015215,Torbay 006B,13440.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015215,Torbay 006B,E02003159,Torbay 006,E06000027,Torbay
+E01015216,Torbay 006C,5665.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015216,Torbay 006C,E02003159,Torbay 006,E06000027,Torbay
+E01015269,Torbay 010C,12122.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015269,Torbay 010C,E02003163,Torbay 010,E06000027,Torbay
+E01015260,Torbay 004D,1360.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015260,Torbay 004D,E02003157,Torbay 004,E06000027,Torbay
+E01015210,Torbay 019B,5885.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015210,Torbay 019B,E02006840,Torbay 019,E06000027,Torbay
+E01015211,Torbay 019G,22071.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015211,Torbay 019G,E02006840,Torbay 019,E06000027,Torbay
+E01015218,Torbay 006D,6743.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015218,Torbay 006D,E02003159,Torbay 006,E06000027,Torbay
+E01015243,Torbay 005D,16900.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015243,Torbay 005D,E02003158,Torbay 005,E06000027,Torbay
+E01015241,Torbay 005B,10261.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015241,Torbay 005B,E02003158,Torbay 005,E06000027,Torbay
+E01015240,Torbay 005A,6657.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015240,Torbay 005A,E02003158,Torbay 005,E06000027,Torbay
+E01015258,Torbay 004B,12137.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015258,Torbay 004B,E02003157,Torbay 004,E06000027,Torbay
+E01015242,Torbay 005C,6458.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015242,Torbay 005C,E02003158,Torbay 005,E06000027,Torbay
+E01015259,Torbay 004C,6297.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015259,Torbay 004C,E02003157,Torbay 004,E06000027,Torbay
+E01015249,Torbay 003A,8114.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015249,Torbay 003A,E02003156,Torbay 003,E06000027,Torbay
+E01015251,Torbay 003C,24494.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015251,Torbay 003C,E02003156,Torbay 003,E06000027,Torbay
+E01015257,Torbay 004A,1026.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015257,Torbay 004A,E02003157,Torbay 004,E06000027,Torbay
+E01015239,Torbay 002D,5045.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015239,Torbay 002D,E02003155,Torbay 002,E06000027,Torbay
+E01015237,Torbay 002B,14857.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015237,Torbay 002B,E02003155,Torbay 002,E06000027,Torbay
+E01015254,Torbay 003F,19720.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015254,Torbay 003F,E02003156,Torbay 003,E06000027,Torbay
+E01015250,Torbay 003B,19610.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015250,Torbay 003B,E02003156,Torbay 003,E06000027,Torbay
+E01015238,Torbay 002C,10152.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015238,Torbay 002C,E02003155,Torbay 002,E06000027,Torbay
+E01020239,Teignbridge 019D,28592.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020239,Teignbridge 019D,E02004219,Teignbridge 019,E07000045,Teignbridge
+E01015263,Torbay 001B,1839.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015263,Torbay 001B,E02003154,Torbay 001,E06000027,Torbay
+E01034170,Torbay 003H,,Torbay,Urban,NHS Devon Integrated Care Board,E01034170,Torbay 003H,E02003156,Torbay 003,E06000027,Torbay
+E01020238,Teignbridge 019C,27439.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020238,Teignbridge 019C,E02004219,Teignbridge 019,E07000045,Teignbridge
+E01015253,Torbay 003E,20560.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015253,Torbay 003E,E02003156,Torbay 003,E06000027,Torbay
+E01015262,Torbay 001A,5643.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015262,Torbay 001A,E02003154,Torbay 001,E06000027,Torbay
+E01020248,Teignbridge 018C,28067.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020248,Teignbridge 018C,E02004218,Teignbridge 018,E07000045,Teignbridge
+E01015266,Torbay 001E,1442.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015266,Torbay 001E,E02003154,Torbay 001,E06000027,Torbay
+E01034169,Torbay 003G,,Torbay,Urban,NHS Devon Integrated Care Board,E01034169,Torbay 003G,E02003156,Torbay 003,E06000027,Torbay
+E01020313,West Devon 007B,9941.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020313,West Devon 007B,E02004235,West Devon 007,E07000047,West Devon
+E01015265,Torbay 001D,10655.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015265,Torbay 001D,E02003154,Torbay 001,E06000027,Torbay
+E01020193,Teignbridge 019B,20819.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020193,Teignbridge 019B,E02004219,Teignbridge 019,E07000045,Teignbridge
+E01015236,Torbay 002A,11715.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015236,Torbay 002A,E02003155,Torbay 002,E06000027,Torbay
+E01020247,Teignbridge 018B,14614.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020247,Teignbridge 018B,E02004218,Teignbridge 018,E07000045,Teignbridge
+E01015264,Torbay 001C,20458.0,Torbay,Urban,NHS Devon Integrated Care Board,E01015264,Torbay 001C,E02003154,Torbay 001,E06000027,Torbay
+E01020192,Teignbridge 019A,29472.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020192,Teignbridge 019A,E02004219,Teignbridge 019,E07000045,Teignbridge
+E01020249,Teignbridge 018D,24901.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020249,Teignbridge 018D,E02004218,Teignbridge 018,E07000045,Teignbridge
+E01020191,Teignbridge 013A,16006.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020191,Teignbridge 013A,E02004213,Teignbridge 013,E07000045,Teignbridge
+E01020246,Teignbridge 018A,17729.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020246,Teignbridge 018A,E02004218,Teignbridge 018,E07000045,Teignbridge
+E01020227,Teignbridge 015D,19965.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020227,Teignbridge 015D,E02004215,Teignbridge 015,E07000045,Teignbridge
+E01020157,South Hams 002B,13244.0,South Hams,Rural,NHS Devon Integrated Care Board,E01020157,South Hams 002B,E02004190,South Hams 002,E07000044,South Hams
+E01020315,West Devon 007C,18080.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020315,West Devon 007C,E02004235,West Devon 007,E07000047,West Devon
+E01020317,West Devon 006A,20801.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020317,West Devon 006A,E02004234,West Devon 006,E07000047,West Devon
+E01020342,West Devon 006D,15876.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020342,West Devon 006D,E02004234,West Devon 006,E07000047,West Devon
+E01020197,Teignbridge 017C,24517.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020197,Teignbridge 017C,E02004217,Teignbridge 017,E07000045,Teignbridge
+E01020341,West Devon 006C,21095.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020341,West Devon 006C,E02004234,West Devon 006,E07000047,West Devon
+E01020338,West Devon 005G,20748.0,West Devon,Urban,NHS Devon Integrated Care Board,E01020338,West Devon 005G,E02004233,West Devon 005,E07000047,West Devon
+E01020334,West Devon 005C,14800.0,West Devon,Urban,NHS Devon Integrated Care Board,E01020334,West Devon 005C,E02004233,West Devon 005,E07000047,West Devon
+E01020336,West Devon 005E,31237.0,West Devon,Urban,NHS Devon Integrated Care Board,E01020336,West Devon 005E,E02004233,West Devon 005,E07000047,West Devon
+E01020335,West Devon 005D,18699.0,West Devon,Urban,NHS Devon Integrated Care Board,E01020335,West Devon 005D,E02004233,West Devon 005,E07000047,West Devon
+E01020196,Teignbridge 017B,14847.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020196,Teignbridge 017B,E02004217,Teignbridge 017,E07000045,Teignbridge
+E01020215,Teignbridge 016D,28142.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020215,Teignbridge 016D,E02004216,Teignbridge 016,E07000045,Teignbridge
+E01020226,Teignbridge 015C,19520.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020226,Teignbridge 015C,E02004215,Teignbridge 015,E07000045,Teignbridge
+E01020214,Teignbridge 016C,21076.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020214,Teignbridge 016C,E02004216,Teignbridge 016,E07000045,Teignbridge
+E01020261,Teignbridge 011E,24072.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020261,Teignbridge 011E,E02004211,Teignbridge 011,E07000045,Teignbridge
+E01020194,Teignbridge 013B,30496.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020194,Teignbridge 013B,E02004213,Teignbridge 013,E07000045,Teignbridge
+E01020213,Teignbridge 016B,15056.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020213,Teignbridge 016B,E02004216,Teignbridge 016,E07000045,Teignbridge
+E01020225,Teignbridge 015B,9574.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020225,Teignbridge 015B,E02004215,Teignbridge 015,E07000045,Teignbridge
+E01020224,Teignbridge 014D,15378.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020224,Teignbridge 014D,E02004214,Teignbridge 014,E07000045,Teignbridge
+E01020212,Teignbridge 016A,7165.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020212,Teignbridge 016A,E02004216,Teignbridge 016,E07000045,Teignbridge
+E01020211,Teignbridge 014A,6339.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020211,Teignbridge 014A,E02004214,Teignbridge 014,E07000045,Teignbridge
+E01020209,Teignbridge 012B,19802.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020209,Teignbridge 012B,E02004212,Teignbridge 012,E07000045,Teignbridge
+E01020216,Teignbridge 015A,6522.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020216,Teignbridge 015A,E02004215,Teignbridge 015,E07000045,Teignbridge
+E01020218,Teignbridge 014C,8303.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020218,Teignbridge 014C,E02004214,Teignbridge 014,E07000045,Teignbridge
+E01020217,Teignbridge 014B,11518.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020217,Teignbridge 014B,E02004214,Teignbridge 014,E07000045,Teignbridge
+E01020195,Teignbridge 017A,15566.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020195,Teignbridge 017A,E02004217,Teignbridge 017,E07000045,Teignbridge
+E01020208,Teignbridge 012A,12809.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020208,Teignbridge 012A,E02004212,Teignbridge 012,E07000045,Teignbridge
+E01020260,Teignbridge 011D,26516.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020260,Teignbridge 011D,E02004211,Teignbridge 011,E07000045,Teignbridge
+E01034168,Teignbridge 013F,,Teignbridge,Urban,NHS Devon Integrated Care Board,E01034168,Teignbridge 013F,E02004213,Teignbridge 013,E07000045,Teignbridge
+E01020210,Teignbridge 012C,27958.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020210,Teignbridge 012C,E02004212,Teignbridge 012,E07000045,Teignbridge
+E01020219,Teignbridge 012D,20125.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020219,Teignbridge 012D,E02004212,Teignbridge 012,E07000045,Teignbridge
+E01020252,Teignbridge 009B,11476.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020252,Teignbridge 009B,E02004209,Teignbridge 009,E07000045,Teignbridge
+E01020269,Teignbridge 010B,5394.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020269,Teignbridge 010B,E02004210,Teignbridge 010,E07000045,Teignbridge
+E01020255,Teignbridge 009E,17938.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020255,Teignbridge 009E,E02004209,Teignbridge 009,E07000045,Teignbridge
+E01034167,Teignbridge 013E,,Teignbridge,Urban,NHS Devon Integrated Care Board,E01034167,Teignbridge 013E,E02004213,Teignbridge 013,E07000045,Teignbridge
+E01020264,Teignbridge 010A,8287.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020264,Teignbridge 010A,E02004210,Teignbridge 010,E07000045,Teignbridge
+E01020272,Teignbridge 010D,8288.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020272,Teignbridge 010D,E02004210,Teignbridge 010,E07000045,Teignbridge
+E01020271,Teignbridge 010C,12347.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020271,Teignbridge 010C,E02004210,Teignbridge 010,E07000045,Teignbridge
+E01020250,Teignbridge 009A,23436.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020250,Teignbridge 009A,E02004209,Teignbridge 009,E07000045,Teignbridge
+E01020201,Teignbridge 011B,28320.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020201,Teignbridge 011B,E02004211,Teignbridge 011,E07000045,Teignbridge
+E01020267,Teignbridge 008C,22955.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020267,Teignbridge 008C,E02004208,Teignbridge 008,E07000045,Teignbridge
+E01020254,Teignbridge 009D,10989.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020254,Teignbridge 009D,E02004209,Teignbridge 009,E07000045,Teignbridge
+E01020266,Teignbridge 008B,26087.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020266,Teignbridge 008B,E02004208,Teignbridge 008,E07000045,Teignbridge
+E01020253,Teignbridge 009C,30287.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020253,Teignbridge 009C,E02004209,Teignbridge 009,E07000045,Teignbridge
+E01020270,Teignbridge 008E,28159.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020270,Teignbridge 008E,E02004208,Teignbridge 008,E07000045,Teignbridge
+E01020265,Teignbridge 008A,27771.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020265,Teignbridge 008A,E02004208,Teignbridge 008,E07000045,Teignbridge
+E01020237,Teignbridge 007D,18144.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020237,Teignbridge 007D,E02004207,Teignbridge 007,E07000045,Teignbridge
+E01020268,Teignbridge 008D,25543.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020268,Teignbridge 008D,E02004208,Teignbridge 008,E07000045,Teignbridge
+E01020257,Teignbridge 009F,28412.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020257,Teignbridge 009F,E02004209,Teignbridge 009,E07000045,Teignbridge
+E01020236,Teignbridge 007C,29432.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020236,Teignbridge 007C,E02004207,Teignbridge 007,E07000045,Teignbridge
+E01020256,Teignbridge 013D,16712.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020256,Teignbridge 013D,E02004213,Teignbridge 013,E07000045,Teignbridge
+E01020233,Teignbridge 006B,22981.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020233,Teignbridge 006B,E02004206,Teignbridge 006,E07000045,Teignbridge
+E01020251,Teignbridge 011C,21682.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020251,Teignbridge 011C,E02004211,Teignbridge 011,E07000045,Teignbridge
+E01020204,Teignbridge 007B,18000.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020204,Teignbridge 007B,E02004207,Teignbridge 007,E07000045,Teignbridge
+E01020200,Teignbridge 011A,29625.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020200,Teignbridge 011A,E02004211,Teignbridge 011,E07000045,Teignbridge
+E01020234,Teignbridge 006C,11125.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020234,Teignbridge 006C,E02004206,Teignbridge 006,E07000045,Teignbridge
+E01020228,Teignbridge 006A,9116.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020228,Teignbridge 006A,E02004206,Teignbridge 006,E07000045,Teignbridge
+E01020202,Teignbridge 007A,22077.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020202,Teignbridge 007A,E02004207,Teignbridge 007,E07000045,Teignbridge
+E01020235,Teignbridge 006D,13823.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020235,Teignbridge 006D,E02004206,Teignbridge 006,E07000045,Teignbridge
+E01020232,Teignbridge 005D,17310.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020232,Teignbridge 005D,E02004205,Teignbridge 005,E07000045,Teignbridge
+E01020331,West Devon 004C,13194.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020331,West Devon 004C,E02004232,West Devon 004,E07000047,West Devon
+E01020230,Teignbridge 005B,15861.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020230,Teignbridge 005B,E02004205,Teignbridge 005,E07000045,Teignbridge
+E01020231,Teignbridge 005C,18779.0,Teignbridge,Urban,NHS Devon Integrated Care Board,E01020231,Teignbridge 005C,E02004205,Teignbridge 005,E07000045,Teignbridge
+E01020203,Teignbridge 004A,30659.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020203,Teignbridge 004A,E02004204,Teignbridge 004,E07000045,Teignbridge
+E01020206,Teignbridge 004B,21570.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020206,Teignbridge 004B,E02004204,Teignbridge 004,E07000045,Teignbridge
+E01034166,Teignbridge 005F,,Teignbridge,Urban,NHS Devon Integrated Care Board,E01034166,Teignbridge 005F,E02004205,Teignbridge 005,E07000045,Teignbridge
+E01020222,Teignbridge 004E,31421.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020222,Teignbridge 004E,E02004204,Teignbridge 004,E07000045,Teignbridge
+E01034165,Teignbridge 005E,,Teignbridge,Urban,NHS Devon Integrated Care Board,E01034165,Teignbridge 005E,E02004205,Teignbridge 005,E07000045,Teignbridge
+E01020220,Teignbridge 004C,18969.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020220,Teignbridge 004C,E02004204,Teignbridge 004,E07000045,Teignbridge
+E01020223,Teignbridge 004F,17318.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020223,Teignbridge 004F,E02004204,Teignbridge 004,E07000045,Teignbridge
+E01020205,Teignbridge 003A,20742.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020205,Teignbridge 003A,E02004203,Teignbridge 003,E07000045,Teignbridge
+E01019913,East Devon 020B,26060.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019913,East Devon 020B,E02004148,East Devon 020,E07000040,East Devon
+E01019912,East Devon 020A,20829.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019912,East Devon 020A,E02004148,East Devon 020,E07000040,East Devon
+E01019916,East Devon 019A,11616.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019916,East Devon 019A,E02004147,East Devon 019,E07000040,East Devon
+E01019914,East Devon 020C,6745.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019914,East Devon 020C,E02004148,East Devon 020,E07000040,East Devon
+E01019915,East Devon 020D,25806.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019915,East Devon 020D,E02004148,East Devon 020,E07000040,East Devon
+E01019918,East Devon 019C,11927.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019918,East Devon 019C,E02004147,East Devon 019,E07000040,East Devon
+E01019917,East Devon 019B,17907.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019917,East Devon 019B,E02004147,East Devon 019,E07000040,East Devon
+E01019919,East Devon 019D,12577.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019919,East Devon 019D,E02004147,East Devon 019,E07000040,East Devon
+E01019921,East Devon 018B,25799.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019921,East Devon 018B,E02004146,East Devon 018,E07000040,East Devon
+E01019910,East Devon 016C,26107.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019910,East Devon 016C,E02004144,East Devon 016,E07000040,East Devon
+E01020325,West Devon 004B,12341.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020325,West Devon 004B,E02004232,West Devon 004,E07000047,West Devon
+E01019922,East Devon 018C,10143.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019922,East Devon 018C,E02004146,East Devon 018,E07000040,East Devon
+E01019920,East Devon 018A,20255.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019920,East Devon 018A,E02004146,East Devon 018,E07000040,East Devon
+E01019896,East Devon 017C,28408.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019896,East Devon 017C,E02004145,East Devon 017,E07000040,East Devon
+E01019894,East Devon 017A,29442.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019894,East Devon 017A,E02004145,East Devon 017,E07000040,East Devon
+E01019923,East Devon 018D,14799.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019923,East Devon 018D,E02004146,East Devon 018,E07000040,East Devon
+E01019904,East Devon 015A,15206.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019904,East Devon 015A,E02004143,East Devon 015,E07000040,East Devon
+E01019909,East Devon 016B,30838.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019909,East Devon 016B,E02004144,East Devon 016,E07000040,East Devon
+E01019911,East Devon 016D,28174.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019911,East Devon 016D,E02004144,East Devon 016,E07000040,East Devon
+E01019897,East Devon 017D,17426.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019897,East Devon 017D,E02004145,East Devon 017,E07000040,East Devon
+E01019907,East Devon 015D,28665.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019907,East Devon 015D,E02004143,East Devon 015,E07000040,East Devon
+E01020332,West Devon 005A,15326.0,West Devon,Urban,NHS Devon Integrated Care Board,E01020332,West Devon 005A,E02004233,West Devon 005,E07000047,West Devon
+E01020337,West Devon 005F,10187.0,West Devon,Urban,NHS Devon Integrated Care Board,E01020337,West Devon 005F,E02004233,West Devon 005,E07000047,West Devon
+E01020333,West Devon 005B,29396.0,West Devon,Urban,NHS Devon Integrated Care Board,E01020333,West Devon 005B,E02004233,West Devon 005,E07000047,West Devon
+E01020259,Teignbridge 003C,14983.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020259,Teignbridge 003C,E02004203,Teignbridge 003,E07000045,Teignbridge
+E01020323,West Devon 003C,10355.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020323,West Devon 003C,E02004231,West Devon 003,E07000047,West Devon
+E01020324,West Devon 006B,13961.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020324,West Devon 006B,E02004234,West Devon 006,E07000047,West Devon
+E01020318,West Devon 003A,20898.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020318,West Devon 003A,E02004231,West Devon 003,E07000047,West Devon
+E01020314,West Devon 004A,11762.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020314,West Devon 004A,E02004232,West Devon 004,E07000047,West Devon
+E01020329,West Devon 002C,17662.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020329,West Devon 002C,E02004230,West Devon 002,E07000047,West Devon
+E01020319,West Devon 003B,14912.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020319,West Devon 003B,E02004231,West Devon 003,E07000047,West Devon
+E01020221,Teignbridge 004D,18876.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020221,Teignbridge 004D,E02004204,Teignbridge 004,E07000045,Teignbridge
+E01020245,Teignbridge 002E,21279.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020245,Teignbridge 002E,E02004202,Teignbridge 002,E07000045,Teignbridge
+E01020244,Teignbridge 002D,20397.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020244,Teignbridge 002D,E02004202,Teignbridge 002,E07000045,Teignbridge
+E01020241,Teignbridge 002B,18426.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020241,Teignbridge 002B,E02004202,Teignbridge 002,E07000045,Teignbridge
+E01020240,Teignbridge 002A,23786.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020240,Teignbridge 002A,E02004202,Teignbridge 002,E07000045,Teignbridge
+E01020258,Teignbridge 003B,20337.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020258,Teignbridge 003B,E02004203,Teignbridge 003,E07000045,Teignbridge
+E01020273,Teignbridge 003D,22431.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020273,Teignbridge 003D,E02004203,Teignbridge 003,E07000045,Teignbridge
+E01020274,Teignbridge 001D,17904.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020274,Teignbridge 001D,E02004201,Teignbridge 001,E07000045,Teignbridge
+E01033236,Exeter 015F,29118.0,Exeter,Urban,NHS Devon Integrated Care Board,E01033236,Exeter 015F,E02004163,Exeter 015,E07000041,Exeter
+E01020243,Teignbridge 001A,19093.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020243,Teignbridge 001A,E02004201,Teignbridge 001,E07000045,Teignbridge
+E01019906,East Devon 015C,28700.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019906,East Devon 015C,E02004143,East Devon 015,E07000040,East Devon
+E01019924,East Devon 018E,17190.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019924,East Devon 018E,E02004146,East Devon 018,E07000040,East Devon
+E01019908,East Devon 016A,21757.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019908,East Devon 016A,E02004144,East Devon 016,E07000040,East Devon
+E01019895,East Devon 017B,29782.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019895,East Devon 017B,E02004145,East Devon 017,E07000040,East Devon
+E01019905,East Devon 015B,32202.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019905,East Devon 015B,E02004143,East Devon 015,E07000040,East Devon
+E01019965,East Devon 014C,26671.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019965,East Devon 014C,E02004142,East Devon 014,E07000040,East Devon
+E01019964,East Devon 014B,27639.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019964,East Devon 014B,E02004142,East Devon 014,E07000040,East Devon
+E01019945,East Devon 013B,17007.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019945,East Devon 013B,E02004141,East Devon 013,E07000040,East Devon
+E01019963,East Devon 013C,31864.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019963,East Devon 013C,E02004141,East Devon 013,E07000040,East Devon
+E01019956,East Devon 012A,27792.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019956,East Devon 012A,E02004140,East Devon 012,E07000040,East Devon
+E01020242,Teignbridge 002C,31322.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020242,Teignbridge 002C,E02004202,Teignbridge 002,E07000045,Teignbridge
+E01033235,Exeter 015E,28099.0,Exeter,Urban,NHS Devon Integrated Care Board,E01033235,Exeter 015E,E02004163,Exeter 015,E07000041,Exeter
+E01034635,Exeter 015H,,Exeter,Urban,NHS Devon Integrated Care Board,E01034635,Exeter 015H,E02004163,Exeter 015,E07000041,Exeter
+E01034634,Exeter 015G,,Exeter,Urban,NHS Devon Integrated Care Board,E01034634,Exeter 015G,E02004163,Exeter 015,E07000041,Exeter
+E01020012,Exeter 015B,9970.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020012,Exeter 015B,E02004163,Exeter 015,E07000041,Exeter
+E01019968,Exeter 014A,26754.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019968,Exeter 014A,E02004162,Exeter 014,E07000041,Exeter
+E01019970,Exeter 014C,26881.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019970,Exeter 014C,E02004162,Exeter 014,E07000041,Exeter
+E01020011,Exeter 015A,25560.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020011,Exeter 015A,E02004163,Exeter 015,E07000041,Exeter
+E01034633,Exeter 011I,,Exeter,Urban,NHS Devon Integrated Care Board,E01034633,Exeter 011I,E02004159,Exeter 011,E07000041,Exeter
+E01034632,Exeter 011H,,Exeter,Urban,NHS Devon Integrated Care Board,E01034632,Exeter 011H,E02004159,Exeter 011,E07000041,Exeter
+E01019969,Exeter 014B,22269.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019969,Exeter 014B,E02004162,Exeter 014,E07000041,Exeter
+E01019973,Exeter 012A,21508.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019973,Exeter 012A,E02004160,Exeter 012,E07000041,Exeter
+E01020015,Exeter 013E,3556.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020015,Exeter 013E,E02004161,Exeter 013,E07000041,Exeter
+E01020010,Exeter 013B,8906.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020010,Exeter 013B,E02004161,Exeter 013,E07000041,Exeter
+E01019971,Exeter 014D,17673.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019971,Exeter 014D,E02004162,Exeter 014,E07000041,Exeter
+E01019972,Exeter 014E,13796.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019972,Exeter 014E,E02004162,Exeter 014,E07000041,Exeter
+E01019977,Exeter 012D,20992.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019977,Exeter 012D,E02004160,Exeter 012,E07000041,Exeter
+E01019976,Exeter 012C,25912.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019976,Exeter 012C,E02004160,Exeter 012,E07000041,Exeter
+E01020023,Exeter 009B,26932.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020023,Exeter 009B,E02004157,Exeter 009,E07000041,Exeter
+E01033232,Exeter 011F,24668.0,Exeter,Urban,NHS Devon Integrated Care Board,E01033232,Exeter 011F,E02004159,Exeter 011,E07000041,Exeter
+E01020340,West Devon 004D,14731.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020340,West Devon 004D,E02004232,West Devon 004,E07000047,West Devon
+E01020286,Torridge 009A,7803.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020286,Torridge 009A,E02004228,Torridge 009,E07000046,Torridge
+E01020290,Torridge 009C,10141.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020290,Torridge 009C,E02004228,Torridge 009,E07000046,Torridge
+E01020031,Exeter 010D,20487.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020031,Exeter 010D,E02004158,Exeter 010,E07000041,Exeter
+E01020032,Exeter 010E,11492.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020032,Exeter 010E,E02004158,Exeter 010,E07000041,Exeter
+E01020027,Exeter 011B,24460.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020027,Exeter 011B,E02004159,Exeter 011,E07000041,Exeter
+E01020014,Exeter 013D,5662.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020014,Exeter 013D,E02004161,Exeter 013,E07000041,Exeter
+E01020013,Exeter 013C,14375.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020013,Exeter 013C,E02004161,Exeter 013,E07000041,Exeter
+E01033234,Exeter 011G,26869.0,Exeter,Urban,NHS Devon Integrated Care Board,E01033234,Exeter 011G,E02004159,Exeter 011,E07000041,Exeter
+E01019975,Exeter 010A,7783.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019975,Exeter 010A,E02004158,Exeter 010,E07000041,Exeter
+E01019974,Exeter 012B,19061.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019974,Exeter 012B,E02004160,Exeter 012,E07000041,Exeter
+E01020025,Exeter 009D,19618.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020025,Exeter 009D,E02004157,Exeter 009,E07000041,Exeter
+E01020024,Exeter 009C,31519.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020024,Exeter 009C,E02004157,Exeter 009,E07000041,Exeter
+E01020030,Exeter 010C,14140.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020030,Exeter 010C,E02004158,Exeter 010,E07000041,Exeter
+E01019988,Exeter 013A,25363.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019988,Exeter 013A,E02004161,Exeter 013,E07000041,Exeter
+E01020026,Exeter 011A,29869.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020026,Exeter 011A,E02004159,Exeter 011,E07000041,Exeter
+E01020029,Exeter 010B,19807.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020029,Exeter 010B,E02004158,Exeter 010,E07000041,Exeter
+E01034631,Exeter 008G,,Exeter,Urban,NHS Devon Integrated Care Board,E01034631,Exeter 008G,E02004156,Exeter 008,E07000041,Exeter
+E01034630,Exeter 008F,,Exeter,Urban,NHS Devon Integrated Care Board,E01034630,Exeter 008F,E02004156,Exeter 008,E07000041,Exeter
+E01019996,Exeter 009A,21566.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019996,Exeter 009A,E02004157,Exeter 009,E07000041,Exeter
+E01020018,Exeter 008E,9203.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020018,Exeter 008E,E02004156,Exeter 008,E07000041,Exeter
+E01019986,Exeter 007A,30264.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019986,Exeter 007A,E02004155,Exeter 007,E07000041,Exeter
+E01019987,Exeter 006A,20506.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019987,Exeter 006A,E02004154,Exeter 006,E07000041,Exeter
+E01019981,Exeter 012E,14017.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019981,Exeter 012E,E02004160,Exeter 012,E07000041,Exeter
+E01019989,Exeter 006B,26823.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019989,Exeter 006B,E02004154,Exeter 006,E07000041,Exeter
+E01019985,Exeter 005E,7128.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019985,Exeter 005E,E02004153,Exeter 005,E07000041,Exeter
+E01020040,Exeter 007E,16149.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020040,Exeter 007E,E02004155,Exeter 007,E07000041,Exeter
+E01019995,Exeter 008B,5708.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019995,Exeter 008B,E02004156,Exeter 008,E07000041,Exeter
+E01020009,Exeter 006E,23253.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020009,Exeter 006E,E02004154,Exeter 006,E07000041,Exeter
+E01020038,Exeter 011E,27291.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020038,Exeter 011E,E02004159,Exeter 011,E07000041,Exeter
+E01020039,Exeter 007D,5897.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020039,Exeter 007D,E02004155,Exeter 007,E07000041,Exeter
+E01019984,Exeter 005D,28554.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019984,Exeter 005D,E02004153,Exeter 005,E07000041,Exeter
+E01020262,Teignbridge 001B,12472.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020262,Teignbridge 001B,E02004201,Teignbridge 001,E07000045,Teignbridge
+E01019994,Exeter 008A,16010.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019994,Exeter 008A,E02004156,Exeter 008,E07000041,Exeter
+E01020036,Exeter 007B,15892.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020036,Exeter 007B,E02004155,Exeter 007,E07000041,Exeter
+E01020017,Exeter 008D,14716.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020017,Exeter 008D,E02004156,Exeter 008,E07000041,Exeter
+E01020022,Exeter 004E,10997.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020022,Exeter 004E,E02004152,Exeter 004,E07000041,Exeter
+E01019983,Exeter 005C,25813.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019983,Exeter 005C,E02004153,Exeter 005,E07000041,Exeter
+E01020008,Exeter 006D,23605.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020008,Exeter 006D,E02004154,Exeter 006,E07000041,Exeter
+E01020006,Exeter 006C,16998.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020006,Exeter 006C,E02004154,Exeter 006,E07000041,Exeter
+E01020037,Exeter 007C,7475.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020037,Exeter 007C,E02004155,Exeter 007,E07000041,Exeter
+E01020020,Exeter 004C,17188.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020020,Exeter 004C,E02004152,Exeter 004,E07000041,Exeter
+E01019997,Exeter 004A,21190.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019997,Exeter 004A,E02004152,Exeter 004,E07000041,Exeter
+E01020021,Exeter 004D,21193.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020021,Exeter 004D,E02004152,Exeter 004,E07000041,Exeter
+E01020007,Exeter 002E,17796.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020007,Exeter 002E,E02004150,Exeter 002,E07000041,Exeter
+E01020019,Exeter 004B,27981.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020019,Exeter 004B,E02004152,Exeter 004,E07000041,Exeter
+E01020005,Exeter 003E,7021.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020005,Exeter 003E,E02004151,Exeter 003,E07000041,Exeter
+E01019980,Exeter 005A,12967.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019980,Exeter 005A,E02004153,Exeter 005,E07000041,Exeter
+E01019992,Exeter 003A,13633.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019992,Exeter 003A,E02004151,Exeter 003,E07000041,Exeter
+E01020004,Exeter 003D,31397.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020004,Exeter 003D,E02004151,Exeter 003,E07000041,Exeter
+E01019982,Exeter 005B,17412.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019982,Exeter 005B,E02004153,Exeter 005,E07000041,Exeter
+E01020263,Teignbridge 001C,21259.0,Teignbridge,Rural,NHS Devon Integrated Care Board,E01020263,Teignbridge 001C,E02004201,Teignbridge 001,E07000045,Teignbridge
+E01020000,Exeter 002D,11226.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020000,Exeter 002D,E02004150,Exeter 002,E07000041,Exeter
+E01019999,Exeter 001D,30457.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019999,Exeter 001D,E02004149,Exeter 001,E07000041,Exeter
+E01019991,Exeter 002B,8835.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019991,Exeter 002B,E02004150,Exeter 002,E07000041,Exeter
+E01034629,Exeter 001H,,Exeter,Urban,NHS Devon Integrated Care Board,E01034629,Exeter 001H,E02004149,Exeter 001,E07000041,Exeter
+E01019998,Exeter 001C,28991.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019998,Exeter 001C,E02004149,Exeter 001,E07000041,Exeter
+E01034622,East Devon 021E,,East Devon,Urban,NHS Devon Integrated Care Board,E01034622,East Devon 021E,E02007027,East Devon 021,E07000040,East Devon
+E01020002,Exeter 003B,16285.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020002,Exeter 003B,E02004151,Exeter 003,E07000041,Exeter
+E01019990,Exeter 002A,5792.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019990,Exeter 002A,E02004150,Exeter 002,E07000041,Exeter
+E01020082,Mid Devon 009D,16935.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020082,Mid Devon 009D,E02004172,Mid Devon 009,E07000042,Mid Devon
+E01020003,Exeter 003C,25854.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020003,Exeter 003C,E02004151,Exeter 003,E07000041,Exeter
+E01034628,Exeter 001G,,Exeter,Urban,NHS Devon Integrated Care Board,E01034628,Exeter 001G,E02004149,Exeter 001,E07000041,Exeter
+E01019940,East Devon 008B,28956.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019940,East Devon 008B,E02004136,East Devon 008,E07000040,East Devon
+E01034623,East Devon 021F,,East Devon,Rural,NHS Devon Integrated Care Board,E01034623,East Devon 021F,E02007027,East Devon 021,E07000040,East Devon
+E01019942,East Devon 008C,19675.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019942,East Devon 008C,E02004136,East Devon 008,E07000040,East Devon
+E01034627,East Devon 022D,,East Devon,Urban,NHS Devon Integrated Care Board,E01034627,East Devon 022D,E02007028,East Devon 022,E07000040,East Devon
+E01019943,East Devon 008D,30829.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019943,East Devon 008D,E02004136,East Devon 008,E07000040,East Devon
+E01034626,East Devon 022C,,East Devon,Urban,NHS Devon Integrated Care Board,E01034626,East Devon 022C,E02007028,East Devon 022,E07000040,East Devon
+E01034625,East Devon 022B,,East Devon,Urban,NHS Devon Integrated Care Board,E01034625,East Devon 022B,E02007028,East Devon 022,E07000040,East Devon
+E01019944,East Devon 008E,28301.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019944,East Devon 008E,E02004136,East Devon 008,E07000040,East Devon
+E01034624,East Devon 022A,,East Devon,Urban,NHS Devon Integrated Care Board,E01034624,East Devon 022A,E02007028,East Devon 022,E07000040,East Devon
+E01019962,East Devon 004F,25183.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019962,East Devon 004F,E02004132,East Devon 004,E07000040,East Devon
+E01019993,Exeter 002C,28257.0,Exeter,Urban,NHS Devon Integrated Care Board,E01019993,Exeter 002C,E02004150,Exeter 002,E07000041,Exeter
+E01034621,East Devon 021D,,East Devon,Urban,NHS Devon Integrated Care Board,E01034621,East Devon 021D,E02007027,East Devon 021,E07000040,East Devon
+E01020001,Exeter 001E,31643.0,Exeter,Urban,NHS Devon Integrated Care Board,E01020001,Exeter 001E,E02004149,Exeter 001,E07000041,Exeter
+E01034620,East Devon 021C,,East Devon,Rural,NHS Devon Integrated Care Board,E01034620,East Devon 021C,E02007027,East Devon 021,E07000040,East Devon
+E01019903,East Devon 021A,19145.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019903,East Devon 021A,E02007027,East Devon 021,E07000040,East Devon
+E01020083,Mid Devon 010D,16404.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020083,Mid Devon 010D,E02004173,Mid Devon 010,E07000042,Mid Devon
+E01020041,Mid Devon 011A,12838.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020041,Mid Devon 011A,E02004174,Mid Devon 011,E07000042,Mid Devon
+E01020068,Mid Devon 010A,13279.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020068,Mid Devon 010A,E02004173,Mid Devon 010,E07000042,Mid Devon
+E01020042,Mid Devon 011B,28993.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020042,Mid Devon 011B,E02004174,Mid Devon 011,E07000042,Mid Devon
+E01020061,Mid Devon 011D,24215.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020061,Mid Devon 011D,E02004174,Mid Devon 011,E07000042,Mid Devon
+E01020339,West Devon 003D,13346.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020339,West Devon 003D,E02004231,West Devon 003,E07000047,West Devon
+E01020328,West Devon 002B,15226.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020328,West Devon 002B,E02004230,West Devon 002,E07000047,West Devon
+E01020330,West Devon 002D,13311.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020330,West Devon 002D,E02004230,West Devon 002,E07000047,West Devon
+E01020327,West Devon 002A,18273.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020327,West Devon 002A,E02004230,West Devon 002,E07000047,West Devon
+E01034643,West Devon 001F,,West Devon,Rural,NHS Devon Integrated Care Board,E01034643,West Devon 001F,E02004229,West Devon 001,E07000047,West Devon
+E01034642,West Devon 001E,,West Devon,Rural,NHS Devon Integrated Care Board,E01034642,West Devon 001E,E02004229,West Devon 001,E07000047,West Devon
+E01020076,Mid Devon 009C,14913.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020076,Mid Devon 009C,E02004172,Mid Devon 009,E07000042,Mid Devon
+E01020326,West Devon 001D,17975.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020326,West Devon 001D,E02004229,West Devon 001,E07000047,West Devon
+E01020320,West Devon 001A,11442.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020320,West Devon 001A,E02004229,West Devon 001,E07000047,West Devon
+E01020321,West Devon 001B,10943.0,West Devon,Rural,NHS Devon Integrated Care Board,E01020321,West Devon 001B,E02004229,West Devon 001,E07000047,West Devon
+E01020294,Torridge 008C,6946.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020294,Torridge 008C,E02004227,Torridge 008,E07000046,Torridge
+E01020302,Torridge 008D,10739.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020302,Torridge 008D,E02004227,Torridge 008,E07000046,Torridge
+E01020289,Torridge 009B,11017.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020289,Torridge 009B,E02004228,Torridge 009,E07000046,Torridge
+E01020293,Torridge 008B,9851.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020293,Torridge 008B,E02004227,Torridge 008,E07000046,Torridge
+E01020060,Mid Devon 011C,15349.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020060,Mid Devon 011C,E02004174,Mid Devon 011,E07000042,Mid Devon
+E01020071,Mid Devon 008D,20624.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020071,Mid Devon 008D,E02004171,Mid Devon 008,E07000042,Mid Devon
+E01020069,Mid Devon 010B,14924.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020069,Mid Devon 010B,E02004173,Mid Devon 010,E07000042,Mid Devon
+E01020044,Mid Devon 008B,19349.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020044,Mid Devon 008B,E02004171,Mid Devon 008,E07000042,Mid Devon
+E01020077,Mid Devon 001D,15044.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020077,Mid Devon 001D,E02004164,Mid Devon 001,E07000042,Mid Devon
+E01020070,Mid Devon 010C,15839.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020070,Mid Devon 010C,E02004173,Mid Devon 010,E07000042,Mid Devon
+E01020081,Mid Devon 005D,11197.0,Mid Devon,Urban,NHS Devon Integrated Care Board,E01020081,Mid Devon 005D,E02004168,Mid Devon 005,E07000042,Mid Devon
+E01020051,Mid Devon 002B,25894.0,Mid Devon,Urban,NHS Devon Integrated Care Board,E01020051,Mid Devon 002B,E02004165,Mid Devon 002,E07000042,Mid Devon
+E01020052,Mid Devon 004A,12332.0,Mid Devon,Urban,NHS Devon Integrated Care Board,E01020052,Mid Devon 004A,E02004167,Mid Devon 004,E07000042,Mid Devon
+E01020079,Mid Devon 005C,7072.0,Mid Devon,Urban,NHS Devon Integrated Care Board,E01020079,Mid Devon 005C,E02004168,Mid Devon 005,E07000042,Mid Devon
+E01019957,East Devon 012B,30085.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019957,East Devon 012B,E02004140,East Devon 012,E07000040,East Devon
+E01019955,East Devon 011D,17985.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019955,East Devon 011D,E02004139,East Devon 011,E07000040,East Devon
+E01019958,East Devon 012C,27242.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019958,East Devon 012C,E02004140,East Devon 012,E07000040,East Devon
+E01019952,East Devon 011A,26960.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019952,East Devon 011A,E02004139,East Devon 011,E07000040,East Devon
+E01019937,East Devon 013A,27685.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019937,East Devon 013A,E02004141,East Devon 013,E07000040,East Devon
+E01019953,East Devon 011B,23972.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019953,East Devon 011B,E02004139,East Devon 011,E07000040,East Devon
+E01019898,East Devon 014A,24254.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019898,East Devon 014A,E02004142,East Devon 014,E07000040,East Devon
+E01019954,East Devon 011C,16908.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019954,East Devon 011C,E02004139,East Devon 011,E07000040,East Devon
+E01019951,East Devon 009C,26767.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019951,East Devon 009C,E02004137,East Devon 009,E07000040,East Devon
+E01019939,East Devon 008A,27420.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019939,East Devon 008A,E02004136,East Devon 008,E07000040,East Devon
+E01019890,East Devon 009A,25883.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019890,East Devon 009A,E02004137,East Devon 009,E07000040,East Devon
+E01019947,East Devon 010B,15548.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019947,East Devon 010B,E02004138,East Devon 010,E07000040,East Devon
+E01019946,East Devon 010A,25360.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019946,East Devon 010A,E02004138,East Devon 010,E07000040,East Devon
+E01019950,East Devon 010E,15953.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019950,East Devon 010E,E02004138,East Devon 010,E07000040,East Devon
+E01019948,East Devon 010C,23535.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019948,East Devon 010C,E02004138,East Devon 010,E07000040,East Devon
+E01019949,East Devon 010D,28437.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019949,East Devon 010D,E02004138,East Devon 010,E07000040,East Devon
+E01019899,East Devon 007A,21143.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019899,East Devon 007A,E02004135,East Devon 007,E07000040,East Devon
+E01019901,East Devon 009B,14049.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019901,East Devon 009B,E02004137,East Devon 009,E07000040,East Devon
+E01019936,East Devon 007D,17354.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019936,East Devon 007D,E02004135,East Devon 007,E07000040,East Devon
+E01019931,East Devon 003D,31871.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019931,East Devon 003D,E02004131,East Devon 003,E07000040,East Devon
+E01019961,East Devon 007E,24023.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019961,East Devon 007E,E02004135,East Devon 007,E07000040,East Devon
+E01019889,East Devon 005D,24605.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019889,East Devon 005D,E02004133,East Devon 005,E07000040,East Devon
+E01019887,East Devon 005B,13255.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019887,East Devon 005B,E02004133,East Devon 005,E07000040,East Devon
+E01034618,East Devon 005F,,East Devon,Rural,NHS Devon Integrated Care Board,E01034618,East Devon 005F,E02004133,East Devon 005,E07000040,East Devon
+E01019888,East Devon 005C,17779.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019888,East Devon 005C,E02004133,East Devon 005,E07000040,East Devon
+E01019966,East Devon 005E,22812.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019966,East Devon 005E,E02004133,East Devon 005,E07000040,East Devon
+E01032628,East Devon 004G,20064.0,East Devon,Rural,NHS Devon Integrated Care Board,E01032628,East Devon 004G,E02004132,East Devon 004,E07000040,East Devon
+E01019891,East Devon 021B,17494.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019891,East Devon 021B,E02007027,East Devon 021,E07000040,East Devon
+E01019925,East Devon 004A,29517.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019925,East Devon 004A,E02004132,East Devon 004,E07000040,East Devon
+E01019930,East Devon 003C,26287.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019930,East Devon 003C,E02004131,East Devon 003,E07000040,East Devon
+E01019959,East Devon 004D,17360.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019959,East Devon 004D,E02004132,East Devon 004,E07000040,East Devon
+E01019960,East Devon 004E,22039.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019960,East Devon 004E,E02004132,East Devon 004,E07000040,East Devon
+E01020043,Mid Devon 008A,21998.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020043,Mid Devon 008A,E02004171,Mid Devon 008,E07000042,Mid Devon
+E01020056,Mid Devon 008C,17869.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020056,Mid Devon 008C,E02004171,Mid Devon 008,E07000042,Mid Devon
+E01019902,East Devon 001A,18065.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019902,East Devon 001A,E02004129,East Devon 001,E07000040,East Devon
+E01020058,Mid Devon 007D,28834.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020058,Mid Devon 007D,E02004170,Mid Devon 007,E07000042,Mid Devon
+E01019935,East Devon 007C,18734.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019935,East Devon 007C,E02004135,East Devon 007,E07000040,East Devon
+E01019929,East Devon 003B,24895.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019929,East Devon 003B,E02004131,East Devon 003,E07000040,East Devon
+E01019934,East Devon 002D,22304.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019934,East Devon 002D,E02004130,East Devon 002,E07000040,East Devon
+E01019928,East Devon 003A,19116.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019928,East Devon 003A,E02004131,East Devon 003,E07000040,East Devon
+E01019927,East Devon 002A,11056.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019927,East Devon 002A,E02004130,East Devon 002,E07000040,East Devon
+E01019932,East Devon 002B,11603.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019932,East Devon 002B,E02004130,East Devon 002,E07000040,East Devon
+E01019933,East Devon 002C,18493.0,East Devon,Urban,NHS Devon Integrated Care Board,E01019933,East Devon 002C,E02004130,East Devon 002,E07000040,East Devon
+E01019938,East Devon 001B,15649.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019938,East Devon 001B,E02004129,East Devon 001,E07000040,East Devon
+E01019967,East Devon 001C,16763.0,East Devon,Rural,NHS Devon Integrated Care Board,E01019967,East Devon 001C,E02004129,East Devon 001,E07000040,East Devon
+E01020075,Mid Devon 003C,23111.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020075,Mid Devon 003C,E02004166,Mid Devon 003,E07000042,Mid Devon
+E01020055,Mid Devon 007B,13938.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020055,Mid Devon 007B,E02004170,Mid Devon 007,E07000042,Mid Devon
+E01020057,Mid Devon 007C,15457.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020057,Mid Devon 007C,E02004170,Mid Devon 007,E07000042,Mid Devon
+E01020054,Mid Devon 007A,26629.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020054,Mid Devon 007A,E02004170,Mid Devon 007,E07000042,Mid Devon
+E01020062,Mid Devon 006C,32229.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020062,Mid Devon 006C,E02004169,Mid Devon 006,E07000042,Mid Devon
+E01020064,Mid Devon 006D,19760.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020064,Mid Devon 006D,E02004169,Mid Devon 006,E07000042,Mid Devon
+E01020063,Mid Devon 003A,21482.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020063,Mid Devon 003A,E02004166,Mid Devon 003,E07000042,Mid Devon
+E01020074,Mid Devon 003B,19103.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020074,Mid Devon 003B,E02004166,Mid Devon 003,E07000042,Mid Devon
+E01020059,Mid Devon 006B,19447.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020059,Mid Devon 006B,E02004169,Mid Devon 006,E07000042,Mid Devon
+E01020045,Mid Devon 006A,16627.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020045,Mid Devon 006A,E02004169,Mid Devon 006,E07000042,Mid Devon
+E01020046,Mid Devon 001A,14903.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020046,Mid Devon 001A,E02004164,Mid Devon 001,E07000042,Mid Devon
+E01034619,East Devon 005G,,East Devon,Rural,NHS Devon Integrated Care Board,E01034619,East Devon 005G,E02004133,East Devon 005,E07000040,East Devon
+E01020072,Mid Devon 009A,14304.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020072,Mid Devon 009A,E02004172,Mid Devon 009,E07000042,Mid Devon
+E01020073,Mid Devon 009B,10237.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020073,Mid Devon 009B,E02004172,Mid Devon 009,E07000042,Mid Devon
+E01020311,Torridge 007D,12216.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020311,Torridge 007D,E02004226,Torridge 007,E07000046,Torridge
+E01020287,Torridge 007A,9902.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020287,Torridge 007A,E02004226,Torridge 007,E07000046,Torridge
+E01020303,Torridge 007B,12222.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020303,Torridge 007B,E02004226,Torridge 007,E07000046,Torridge
+E01020098,North Devon 014B,12750.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020098,North Devon 014B,E02004188,North Devon 014,E07000043,North Devon
+E01020305,Torridge 006B,14038.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020305,Torridge 006B,E02004225,Torridge 006,E07000046,Torridge
+E01020304,Torridge 006A,19968.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020304,Torridge 006A,E02004225,Torridge 006,E07000046,Torridge
+E01020306,Torridge 006C,26139.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020306,Torridge 006C,E02004225,Torridge 006,E07000046,Torridge
+E01020307,Torridge 006D,11759.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020307,Torridge 006D,E02004225,Torridge 006,E07000046,Torridge
+E01020053,Mid Devon 004B,11659.0,Mid Devon,Urban,NHS Devon Integrated Care Board,E01020053,Mid Devon 004B,E02004167,Mid Devon 004,E07000042,Mid Devon
+E01020078,Mid Devon 005B,8009.0,Mid Devon,Urban,NHS Devon Integrated Care Board,E01020078,Mid Devon 005B,E02004168,Mid Devon 005,E07000042,Mid Devon
+E01020065,Mid Devon 004C,14245.0,Mid Devon,Urban,NHS Devon Integrated Care Board,E01020065,Mid Devon 004C,E02004167,Mid Devon 004,E07000042,Mid Devon
+E01020048,Mid Devon 005A,10179.0,Mid Devon,Urban,NHS Devon Integrated Care Board,E01020048,Mid Devon 005A,E02004168,Mid Devon 005,E07000042,Mid Devon
+E01020067,Mid Devon 004D,7951.0,Mid Devon,Urban,NHS Devon Integrated Care Board,E01020067,Mid Devon 004D,E02004167,Mid Devon 004,E07000042,Mid Devon
+E01020080,Mid Devon 002D,22318.0,Mid Devon,Urban,NHS Devon Integrated Care Board,E01020080,Mid Devon 002D,E02004165,Mid Devon 002,E07000042,Mid Devon
+E01034637,Mid Devon 002F,,Mid Devon,Urban,NHS Devon Integrated Care Board,E01034637,Mid Devon 002F,E02004165,Mid Devon 002,E07000042,Mid Devon
+E01034636,Mid Devon 002E,,Mid Devon,Urban,NHS Devon Integrated Care Board,E01034636,Mid Devon 002E,E02004165,Mid Devon 002,E07000042,Mid Devon
+E01020047,Mid Devon 002A,22146.0,Mid Devon,Urban,NHS Devon Integrated Care Board,E01020047,Mid Devon 002A,E02004165,Mid Devon 002,E07000042,Mid Devon
+E01020138,North Devon 014C,10100.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020138,North Devon 014C,E02004188,North Devon 014,E07000043,North Devon
+E01020301,Torridge 009D,11712.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020301,Torridge 009D,E02004228,Torridge 009,E07000046,Torridge
+E01020309,Torridge 008E,10477.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020309,Torridge 008E,E02004227,Torridge 008,E07000046,Torridge
+E01020291,Torridge 008A,12600.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020291,Torridge 008A,E02004227,Torridge 008,E07000046,Torridge
+E01020296,Torridge 005D,15205.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020296,Torridge 005D,E02004224,Torridge 005,E07000046,Torridge
+E01020295,Torridge 005C,14275.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020295,Torridge 005C,E02004224,Torridge 005,E07000046,Torridge
+E01020292,Torridge 005B,11343.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020292,Torridge 005B,E02004224,Torridge 005,E07000046,Torridge
+E01020283,Torridge 004D,16628.0,Torridge,Urban,NHS Devon Integrated Care Board,E01020283,Torridge 004D,E02004223,Torridge 004,E07000046,Torridge
+E01020277,Torridge 004A,5207.0,Torridge,Urban,NHS Devon Integrated Care Board,E01020277,Torridge 004A,E02004223,Torridge 004,E07000046,Torridge
+E01020308,Torridge 007C,15108.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020308,Torridge 007C,E02004226,Torridge 007,E07000046,Torridge
+E01020097,North Devon 013A,13309.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020097,North Devon 013A,E02004187,North Devon 013,E07000043,North Devon
+E01020278,Torridge 004B,13195.0,Torridge,Urban,NHS Devon Integrated Care Board,E01020278,Torridge 004B,E02004223,Torridge 004,E07000046,Torridge
+E01020135,North Devon 013C,10643.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020135,North Devon 013C,E02004187,North Devon 013,E07000043,North Devon
+E01020136,North Devon 013D,20057.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020136,North Devon 013D,E02004187,North Devon 013,E07000043,North Devon
+E01020137,North Devon 013E,14991.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020137,North Devon 013E,E02004187,North Devon 013,E07000043,North Devon
+E01020119,North Devon 011D,15644.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020119,North Devon 011D,E02004185,North Devon 011,E07000043,North Devon
+E01020122,North Devon 012E,15048.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020122,North Devon 012E,E02004186,North Devon 012,E07000043,North Devon
+E01020121,North Devon 012D,18768.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020121,North Devon 012D,E02004186,North Devon 012,E07000043,North Devon
+E01020107,North Devon 011C,25588.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020107,North Devon 011C,E02004185,North Devon 011,E07000043,North Devon
+E01020285,Torridge 004F,8596.0,Torridge,Urban,NHS Devon Integrated Care Board,E01020285,Torridge 004F,E02004223,Torridge 004,E07000046,Torridge
+E01020284,Torridge 004E,11962.0,Torridge,Urban,NHS Devon Integrated Care Board,E01020284,Torridge 004E,E02004223,Torridge 004,E07000046,Torridge
+E01020279,Torridge 004C,13687.0,Torridge,Urban,NHS Devon Integrated Care Board,E01020279,Torridge 004C,E02004223,Torridge 004,E07000046,Torridge
+E01020280,Torridge 003A,3767.0,Torridge,Urban,NHS Devon Integrated Care Board,E01020280,Torridge 003A,E02004222,Torridge 003,E07000046,Torridge
+E01020282,Torridge 003C,7411.0,Torridge,Urban,NHS Devon Integrated Care Board,E01020282,Torridge 003C,E02004222,Torridge 003,E07000046,Torridge
+E01020281,Torridge 003B,21758.0,Torridge,Urban,NHS Devon Integrated Care Board,E01020281,Torridge 003B,E02004222,Torridge 003,E07000046,Torridge
+E01020300,Torridge 002B,25242.0,Torridge,Urban,NHS Devon Integrated Care Board,E01020300,Torridge 002B,E02004221,Torridge 002,E07000046,Torridge
+E01020298,Torridge 002A,21094.0,Torridge,Urban,NHS Devon Integrated Care Board,E01020298,Torridge 002A,E02004221,Torridge 002,E07000046,Torridge
+E01034641,Torridge 002E,,Torridge,Urban,NHS Devon Integrated Care Board,E01034641,Torridge 002E,E02004221,Torridge 002,E07000046,Torridge
+E01020297,Torridge 001C,6707.0,Torridge,Urban,NHS Devon Integrated Care Board,E01020297,Torridge 001C,E02004220,Torridge 001,E07000046,Torridge
+E01020049,Mid Devon 001B,14707.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020049,Mid Devon 001B,E02004164,Mid Devon 001,E07000042,Mid Devon
+E01020050,Mid Devon 001C,13825.0,Mid Devon,Rural,NHS Devon Integrated Care Board,E01020050,Mid Devon 001C,E02004164,Mid Devon 001,E07000042,Mid Devon
+E01020087,North Devon 014A,12543.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020087,North Devon 014A,E02004188,North Devon 014,E07000043,North Devon
+E01020120,North Devon 006B,23893.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020120,North Devon 006B,E02004180,North Devon 006,E07000043,North Devon
+E01020085,North Devon 012B,21447.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020085,North Devon 012B,E02004186,North Devon 012,E07000043,North Devon
+E01020128,North Devon 010D,24951.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020128,North Devon 010D,E02004184,North Devon 010,E07000043,North Devon
+E01020131,North Devon 013B,9842.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020131,North Devon 013B,E02004187,North Devon 013,E07000043,North Devon
+E01020125,North Devon 009D,28881.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020125,North Devon 009D,E02004183,North Devon 009,E07000043,North Devon
+E01020106,North Devon 011B,19704.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020106,North Devon 011B,E02004185,North Devon 011,E07000043,North Devon
+E01020084,North Devon 012A,16234.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020084,North Devon 012A,E02004186,North Devon 012,E07000043,North Devon
+E01020129,North Devon 010E,12460.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020129,North Devon 010E,E02004184,North Devon 010,E07000043,North Devon
+E01034639,North Devon 012G,,North Devon,Urban,NHS Devon Integrated Care Board,E01034639,North Devon 012G,E02004186,North Devon 012,E07000043,North Devon
+E01034638,North Devon 012F,,North Devon,Urban,NHS Devon Integrated Care Board,E01034638,North Devon 012F,E02004186,North Devon 012,E07000043,North Devon
+E01020130,North Devon 010F,11950.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020130,North Devon 010F,E02004184,North Devon 010,E07000043,North Devon
+E01020124,North Devon 009C,19203.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020124,North Devon 009C,E02004183,North Devon 009,E07000043,North Devon
+E01020104,North Devon 010C,7741.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020104,North Devon 010C,E02004184,North Devon 010,E07000043,North Devon
+E01020105,North Devon 011A,22666.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020105,North Devon 011A,E02004185,North Devon 011,E07000043,North Devon
+E01020102,North Devon 010A,24943.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020102,North Devon 010A,E02004184,North Devon 010,E07000043,North Devon
+E01020123,North Devon 009B,12681.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020123,North Devon 009B,E02004183,North Devon 009,E07000043,North Devon
+E01020103,North Devon 010B,2896.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020103,North Devon 010B,E02004184,North Devon 010,E07000043,North Devon
+E01020096,North Devon 009A,8682.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020096,North Devon 009A,E02004183,North Devon 009,E07000043,North Devon
+E01020094,North Devon 008A,2291.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020094,North Devon 008A,E02004182,North Devon 008,E07000043,North Devon
+E01020095,North Devon 008B,8311.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020095,North Devon 008B,E02004182,North Devon 008,E07000043,North Devon
+E01020140,North Devon 008C,12634.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020140,North Devon 008C,E02004182,North Devon 008,E07000043,North Devon
+E01020139,North Devon 007D,5690.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020139,North Devon 007D,E02004181,North Devon 007,E07000043,North Devon
+E01020141,North Devon 008D,6180.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020141,North Devon 008D,E02004182,North Devon 008,E07000043,North Devon
+E01020132,North Devon 007A,20844.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020132,North Devon 007A,E02004181,North Devon 007,E07000043,North Devon
+E01020134,North Devon 007C,10319.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020134,North Devon 007C,E02004181,North Devon 007,E07000043,North Devon
+E01020133,North Devon 007B,25814.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020133,North Devon 007B,E02004181,North Devon 007,E07000043,North Devon
+E01020110,North Devon 005E,23355.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020110,North Devon 005E,E02004179,North Devon 005,E07000043,North Devon
+E01020093,North Devon 005D,17065.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020093,North Devon 005D,E02004179,North Devon 005,E07000043,North Devon
+E01020089,North Devon 005A,28255.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020089,North Devon 005A,E02004179,North Devon 005,E07000043,North Devon
+E01020092,North Devon 005C,27469.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020092,North Devon 005C,E02004179,North Devon 005,E07000043,North Devon
+E01020088,North Devon 006A,13443.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020088,North Devon 006A,E02004180,North Devon 006,E07000043,North Devon
+E01020090,North Devon 004A,28233.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020090,North Devon 004A,E02004178,North Devon 004,E07000043,North Devon
+E01020127,North Devon 006C,14073.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020127,North Devon 006C,E02004180,North Devon 006,E07000043,North Devon
+E01020108,North Devon 004B,21565.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020108,North Devon 004B,E02004178,North Devon 004,E07000043,North Devon
+E01020099,North Devon 002A,17596.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020099,North Devon 002A,E02004176,North Devon 002,E07000043,North Devon
+E01020117,North Devon 003C,15587.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020117,North Devon 003C,E02004177,North Devon 003,E07000043,North Devon
+E01020115,North Devon 001D,15418.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020115,North Devon 001D,E02004175,North Devon 001,E07000043,North Devon
+E01020100,North Devon 002B,10462.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020100,North Devon 002B,E02004176,North Devon 002,E07000043,North Devon
+E01020101,North Devon 002C,14588.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020101,North Devon 002C,E02004176,North Devon 002,E07000043,North Devon
+E01020118,North Devon 003D,8993.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020118,North Devon 003D,E02004177,North Devon 003,E07000043,North Devon
+E01034640,Torridge 002D,,Torridge,Urban,NHS Devon Integrated Care Board,E01034640,Torridge 002D,E02004221,Torridge 002,E07000046,Torridge
+E01020299,Torridge 001D,16535.0,Torridge,Urban,NHS Devon Integrated Care Board,E01020299,Torridge 001D,E02004220,Torridge 001,E07000046,Torridge
+E01020275,Torridge 001A,13129.0,Torridge,Urban,NHS Devon Integrated Care Board,E01020275,Torridge 001A,E02004220,Torridge 001,E07000046,Torridge
+E01020276,Torridge 001B,17044.0,Torridge,Urban,NHS Devon Integrated Care Board,E01020276,Torridge 001B,E02004220,Torridge 001,E07000046,Torridge
+E01020288,Torridge 005A,11487.0,Torridge,Rural,NHS Devon Integrated Care Board,E01020288,Torridge 005A,E02004224,Torridge 005,E07000046,Torridge
+E01020091,North Devon 005B,28295.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020091,North Devon 005B,E02004179,North Devon 005,E07000043,North Devon
+E01020109,North Devon 004C,21464.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020109,North Devon 004C,E02004178,North Devon 004,E07000043,North Devon
+E01020116,North Devon 003B,12145.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020116,North Devon 003B,E02004177,North Devon 003,E07000043,North Devon
+E01020126,North Devon 002D,10194.0,North Devon,Rural,NHS Devon Integrated Care Board,E01020126,North Devon 002D,E02004176,North Devon 002,E07000043,North Devon
+E01020111,North Devon 001A,4381.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020111,North Devon 001A,E02004175,North Devon 001,E07000043,North Devon
+E01020113,North Devon 003A,4820.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020113,North Devon 003A,E02004177,North Devon 003,E07000043,North Devon
+E01020114,North Devon 001C,8599.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020114,North Devon 001C,E02004175,North Devon 001,E07000043,North Devon
+E01020112,North Devon 001B,1469.0,North Devon,Urban,NHS Devon Integrated Care Board,E01020112,North Devon 001B,E02004175,North Devon 001,E07000043,North Devon
