@@ -30,3 +30,4 @@ dependencies:
       - streamlit-folium
       - strait
       - git-lfs
+      - pyvis
