@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2a538c0d-91df-467e-8b73-24ae2d78c957" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pages/02_Acute_Nearest_Neighbour.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/02_Acute_Nearest_Neighbour.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/Health Infrastructure/NHS_SW_Specialist_Hospitals.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/03_Demographics_Analysis_SW.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/03_Demographics_Analysis_SW.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/07_IMD_Neighbour_Methods.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/08_Facility_Overlays.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/09_Geographic_Proximity_Dendrogram.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +165,8 @@
       <workItem from="1748980667461" duration="335000" />
       <workItem from="1749044436272" duration="367000" />
       <workItem from="1749045157363" duration="1190000" />
-      <workItem from="1749151652300" duration="3232000" />
+      <workItem from="1749151652300" duration="3587000" />
+      <workItem from="1749198246168" duration="4335000" />
     </task>
     <servers />
   </component>
@@ -186,10 +191,6 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/app/pages/02_Acute_Nearest_Neighbour.py</url>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
