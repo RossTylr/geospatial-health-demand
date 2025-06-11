@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a538c0d-91df-467e-8b73-24ae2d78c957" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/notebooks/07_.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/processed/Health Infrastructure/NHS_SW_Specialist_Hospitals.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/03_Demographics_Analysis_SW.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/03_Demographics_Analysis_SW.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/07_IMD_Neighbour_Methods.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/08_Facility_Overlays.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/09_Geographic_Proximity_Dendrogram.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +26,7 @@
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -167,6 +163,7 @@
       <workItem from="1749045157363" duration="1190000" />
       <workItem from="1749151652300" duration="3587000" />
       <workItem from="1749198246168" duration="4335000" />
+      <workItem from="1749673232229" duration="4051000" />
     </task>
     <servers />
   </component>
