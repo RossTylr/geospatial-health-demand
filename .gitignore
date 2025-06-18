@@ -1,2 +1,23 @@
 data/raw/*.shp
 data/raw/PCD_OA21_LSOA21_MSOA21_LAD_MAY24_UK_LU.csv
+
+# Ignore a specific .gpkg file
+/data/processed/sw_ready_layers.gpkg
+
+# Ignore all .html files in the outputs/maps folder
+/data/processed/outputs/maps/*.html
+
+# Ignore specific GPKG file
+data/processed/sw_ready_layers.gpkg
+
+# Ignore all .html files in outputs/maps folder
+data/processed/outputs/maps/*.html
+
+# (Optional) Ignore any .html maps in notebooks/
+notebooks/*.html
+
+# (Optional) Ignore macOS .DS_Store files
+*.DS_Store
+
+# (Optional) Ignore cache files
+notebooks/cache/*.json
