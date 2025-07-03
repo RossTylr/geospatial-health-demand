@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a538c0d-91df-467e-8b73-24ae2d78c957" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data/raw/TS007-2021.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/09a_LSOA_ONS_5-Year_Age_Bands.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/09b_MSOA_Age-Continuous.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2a538c0d-91df-467e-8b73-24ae2d78c957" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,7 +168,7 @@
       <workItem from="1750793752671" duration="4087000" />
       <workItem from="1751009048403" duration="1260000" />
       <workItem from="1751271150184" duration="56000" />
-      <workItem from="1751546462751" duration="4337000" />
+      <workItem from="1751546462751" duration="4654000" />
     </task>
     <servers />
   </component>
