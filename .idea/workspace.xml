@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a538c0d-91df-467e-8b73-24ae2d78c957" name="Changes" comment="" />
+    <list default="true" id="2a538c0d-91df-467e-8b73-24ae2d78c957" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/notebooks/09c_LSOA_Age-Continuous.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/09d_LSOA_Age-Continuous_by_Sex.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +51,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/rosstaylor/Downloads/Research Project/Code Folder/Research Project - Geospatial Health Demand/data/processed",
+    "last_opened_file_path": "/Users/rosstaylor/Downloads/Research Project/Code Folder/Research Project - Geospatial Health Demand/notebooks",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +63,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/notebooks" />
       <recent name="$PROJECT_DIR$/data/processed" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -168,7 +173,8 @@
       <workItem from="1750793752671" duration="4087000" />
       <workItem from="1751009048403" duration="1260000" />
       <workItem from="1751271150184" duration="56000" />
-      <workItem from="1751546462751" duration="4654000" />
+      <workItem from="1751546462751" duration="4915000" />
+      <workItem from="1751828901508" duration="1588000" />
     </task>
     <servers />
   </component>
